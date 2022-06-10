@@ -142,3 +142,6 @@ cython_debug/
 dataset/converted/
 dataset/marked/
 dataset/ner_examples/
+
+
+.idea/
