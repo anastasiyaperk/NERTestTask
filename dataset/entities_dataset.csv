@@ -1,0 +1,1195 @@
+filename,tag,entity
+2020.09.11_Talos_-_The_art_and_science_of_detecting_Cobalt_Strike.pdf.txt,SOFTWARE,PowerShell
+2020.09.11_Talos_-_The_art_and_science_of_detecting_Cobalt_Strike.pdf.txt,SOFTWARE,SNORT
+2020.09.11_Talos_-_The_art_and_science_of_detecting_Cobalt_Strike.pdf.txt,SOFTWARE,ClamAV
+2020.09.11_Talos_-_The_art_and_science_of_detecting_Cobalt_Strike.pdf.txt,SOFTWARE,Java
+2020.09.11_Talos_-_The_art_and_science_of_detecting_Cobalt_Strike.pdf.txt,SOFTWARE,Windows API
+2020.09.11_Talos_-_The_art_and_science_of_detecting_Cobalt_Strike.pdf.txt,SOFTWARE,Snort
+2020.09.11_Talos_-_The_art_and_science_of_detecting_Cobalt_Strike.pdf.txt,SOFTWARE,VBA
+2020.09.11_Talos_-_The_art_and_science_of_detecting_Cobalt_Strike.pdf.txt,SOFTWARE,powershell
+2020.09.11_Talos_-_The_art_and_science_of_detecting_Cobalt_Strike.pdf.txt,SOFTWARE,Bitsadmin
+2020.09.11_Talos_-_The_art_and_science_of_detecting_Cobalt_Strike.pdf.txt,SOFTWARE,Python
+2020.09.11_Talos_-_The_art_and_science_of_detecting_Cobalt_Strike.pdf.txt,SOFTWARE,Java Native Interface
+2020.09.11_Talos_-_The_art_and_science_of_detecting_Cobalt_Strike.pdf.txt,SOFTWARE,JNI
+2020.09.11_Talos_-_The_art_and_science_of_detecting_Cobalt_Strike.pdf.txt,SOFTWARE,Java Virtual Machine
+2020.09.11_Talos_-_The_art_and_science_of_detecting_Cobalt_Strike.pdf.txt,SOFTWARE,JVM
+2020.09.11_Talos_-_The_art_and_science_of_detecting_Cobalt_Strike.pdf.txt,SOFTWARE,JDK 8u5
+2020.09.11_Talos_-_The_art_and_science_of_detecting_Cobalt_Strike.pdf.txt,SOFTWARE,JDK 8
+2020.09.11_Talos_-_The_art_and_science_of_detecting_Cobalt_Strike.pdf.txt,SOFTWARE,Oracle
+2020.09.11_Talos_-_The_art_and_science_of_detecting_Cobalt_Strike.pdf.txt,SOFTWARE,Rhino
+2020.09.11_Talos_-_The_art_and_science_of_detecting_Cobalt_Strike.pdf.txt,SOFTWARE,JavaScript
+2020.09.11_Talos_-_The_art_and_science_of_detecting_Cobalt_Strike.pdf.txt,SOFTWARE,Java 7
+2020.09.11_Talos_-_The_art_and_science_of_detecting_Cobalt_Strike.pdf.txt,SOFTWARE,Java 6
+2020.09.11_Talos_-_The_art_and_science_of_detecting_Cobalt_Strike.pdf.txt,SOFTWARE,Java 7u21
+2020.09.11_Talos_-_The_art_and_science_of_detecting_Cobalt_Strike.pdf.txt,SOFTWARE,ActiveX
+2020.09.11_Talos_-_The_art_and_science_of_detecting_Cobalt_Strike.pdf.txt,SOFTWARE,JRE
+2020.09.11_Talos_-_The_art_and_science_of_detecting_Cobalt_Strike.pdf.txt,SOFTWARE,powerShell
+2020.09.11_Talos_-_The_art_and_science_of_detecting_Cobalt_Strike.pdf.txt,SOFTWARE,POWERSHELL
+2020.09.11_Talos_-_The_art_and_science_of_detecting_Cobalt_Strike.pdf.txt,MALWARE,Cobalt Strike
+2020.09.11_Talos_-_The_art_and_science_of_detecting_Cobalt_Strike.pdf.txt,MALWARE,Cobalt
+2020.09.11_Talos_-_The_art_and_science_of_detecting_Cobalt_Strike.pdf.txt,MALWARE,CobaltStrike
+2020.09.11_Talos_-_The_art_and_science_of_detecting_Cobalt_Strike.pdf.txt,MALWARE,beacons
+2020.09.11_Talos_-_The_art_and_science_of_detecting_Cobalt_Strike.pdf.txt,MALWARE,Beacons
+2020.09.11_Talos_-_The_art_and_science_of_detecting_Cobalt_Strike.pdf.txt,MALWARE,Beacon
+2020.09.11_Talos_-_The_art_and_science_of_detecting_Cobalt_Strike.pdf.txt,MALWARE,beacon
+2020.09.11_Talos_-_The_art_and_science_of_detecting_Cobalt_Strike.pdf.txt,MALWARE,Cobalt Beacon
+2020.09.11_Talos_-_The_art_and_science_of_detecting_Cobalt_Strike.pdf.txt,TOOL,Metasploit
+2020.09.11_Talos_-_The_art_and_science_of_detecting_Cobalt_Strike.pdf.txt,MITRE_ATTACK,Reflective DLL injection
+2020.09.11_Talos_-_The_art_and_science_of_detecting_Cobalt_Strike.pdf.txt,MITRE_ATTACK,Reflective DLL loading
+2020.09.11_Talos_-_The_art_and_science_of_detecting_Cobalt_Strike.pdf.txt,ORG,Cisco
+2020.09.11_Talos_-_The_art_and_science_of_detecting_Cobalt_Strike.pdf.txt,TIMESTAMP,"September 11, 2020"
+APT Trends report Q2 2017.pdf.txt,SOFTWARE,Microsoft Office
+APT Trends report Q2 2017.pdf.txt,SOFTWARE,Microsoft Windows
+APT Trends report Q2 2017.pdf.txt,SOFTWARE,certutil
+APT Trends report Q2 2017.pdf.txt,SOFTWARE,Adobe Flash
+APT Trends report Q2 2017.pdf.txt,SOFTWARE,Delphi
+APT Trends report Q2 2017.pdf.txt,SOFTWARE,MacOS
+APT Trends report Q2 2017.pdf.txt,SOFTWARE,SWIFT
+APT Trends report Q2 2017.pdf.txt,SOFTWARE,Kaspersky Endpoint Security for Business Advanced
+APT Trends report Q2 2017.pdf.txt,SOFTWARE,Kaspersky Total Security
+APT Trends report Q2 2017.pdf.txt,SOFTWARE,Kaspersky Anti Targeted Attack
+APT Trends report Q2 2017.pdf.txt,SOFTWARE,KATA
+APT Trends report Q2 2017.pdf.txt,SOFTWARE,HuMachine Intelligence
+APT Trends report Q2 2017.pdf.txt,SOFTWARE,Kaspersky Penetration Testing and Application Security Assessment
+APT Trends report Q2 2017.pdf.txt,MALWARE,WannaCry
+APT Trends report Q2 2017.pdf.txt,MALWARE,Petya
+APT Trends report Q2 2017.pdf.txt,MALWARE,GAMEFISH
+APT Trends report Q2 2017.pdf.txt,MALWARE,ICEDCOFFEE
+APT Trends report Q2 2017.pdf.txt,MALWARE,Shirime
+APT Trends report Q2 2017.pdf.txt,MALWARE,Mosquito Turla
+APT Trends report Q2 2017.pdf.txt,MALWARE,Zebrocy
+APT Trends report Q2 2017.pdf.txt,MALWARE,ExPetr
+APT Trends report Q2 2017.pdf.txt,MALWARE,BlackEnergy
+APT Trends report Q2 2017.pdf.txt,MALWARE,EQUATIONVECTOR
+APT Trends report Q2 2017.pdf.txt,MALWARE,NObody But US
+APT Trends report Q2 2017.pdf.txt,MALWARE,NOBUS
+APT Trends report Q2 2017.pdf.txt,MALWARE,PeddleCheap
+APT Trends report Q2 2017.pdf.txt,MALWARE,Gray Lambert
+APT Trends report Q2 2017.pdf.txt,MALWARE,Lambert
+APT Trends report Q2 2017.pdf.txt,MALWARE,Red Lambert
+APT Trends report Q2 2017.pdf.txt,MALWARE,Brown Lambert
+APT Trends report Q2 2017.pdf.txt,MALWARE,Manuscrypt
+APT Trends report Q2 2017.pdf.txt,MALWARE,EternalBlue
+APT Trends report Q2 2017.pdf.txt,MALWARE,FinSpy
+APT Trends report Q2 2017.pdf.txt,MALWARE,HiKit
+APT Trends report Q2 2017.pdf.txt,MALWARE,Hias
+APT Trends report Q2 2017.pdf.txt,MALWARE,Meterpreter
+APT Trends report Q2 2017.pdf.txt,MALWARE,Poison Ivy
+APT Trends report Q2 2017.pdf.txt,MALWARE,xDown
+APT Trends report Q2 2017.pdf.txt,MALWARE,xCaon
+APT Trends report Q2 2017.pdf.txt,MALWARE,Hias RAT
+APT Trends report Q2 2017.pdf.txt,MALWARE,Demsty
+APT Trends report Q2 2017.pdf.txt,THREAT_ACTOR,Sofacy
+APT Trends report Q2 2017.pdf.txt,THREAT_ACTOR,Turla
+APT Trends report Q2 2017.pdf.txt,THREAT_ACTOR,Regin
+APT Trends report Q2 2017.pdf.txt,THREAT_ACTOR,Project Sauron
+APT Trends report Q2 2017.pdf.txt,THREAT_ACTOR,Equation
+APT Trends report Q2 2017.pdf.txt,THREAT_ACTOR,Lamberts
+APT Trends report Q2 2017.pdf.txt,THREAT_ACTOR,ShadowBrokers
+APT Trends report Q2 2017.pdf.txt,THREAT_ACTOR,LAMBERTS
+APT Trends report Q2 2017.pdf.txt,THREAT_ACTOR,Lazarus
+APT Trends report Q2 2017.pdf.txt,THREAT_ACTOR,BlueNoroff
+APT Trends report Q2 2017.pdf.txt,THREAT_ACTOR,APT Group
+APT Trends report Q2 2017.pdf.txt,THREAT_ACTOR,BlackOasis
+APT Trends report Q2 2017.pdf.txt,THREAT_ACTOR,OilRig
+APT Trends report Q2 2017.pdf.txt,THREAT_ACTOR,CloudComputating
+APT Trends report Q2 2017.pdf.txt,THREAT_ACTOR,Equation Group
+APT Trends report Q2 2017.pdf.txt,THREAT_ACTOR,Vault7
+APT Trends report Q2 2017.pdf.txt,ATTACK_PATTERN,BlackBox
+APT Trends report Q2 2017.pdf.txt,INDUSTRY,banks
+APT Trends report Q2 2017.pdf.txt,CAMPAIGN,IndigoZebra
+APT Trends report Q2 2017.pdf.txt,ORG,GReAT
+APT Trends report Q2 2017.pdf.txt,ORG,Kaspersky Lab
+APT Trends report Q2 2017.pdf.txt,ORG,Global Research and Analysis Team
+APT Trends report Q2 2017.pdf.txt,ORG,Kaspersky
+APT Trends report Q2 2017.pdf.txt,ORG,French political party
+APT Trends report Q2 2017.pdf.txt,ORG,Gamma Group
+APT Trends report Q2 2017.pdf.txt,ORG,Hacking Team
+APT Trends report Q2 2017.pdf.txt,ORG,NSO
+APT Trends report Q2 2017.pdf.txt,COUNTRY,Europe
+APT Trends report Q2 2017.pdf.txt,COUNTRY,ASIA
+APT Trends report Q2 2017.pdf.txt,COUNTRY,Middle East
+APT Trends report Q2 2017.pdf.txt,COUNTRY,South Korea
+APT Trends report Q2 2017.pdf.txt,COUNTRY,Israel
+APT Trends report Q2 2017.pdf.txt,COUNTRY,Middle Asia
+APT Trends report Q2 2017.pdf.txt,COUNTRY,Hong Kong
+APT Trends report Q2 2017.pdf.txt,COUNTRY,Germany
+APT Trends report Q2 2017.pdf.txt,COUNTRY,Norway
+APT Trends report Q2 2017.pdf.txt,COUNTRY,CHINA
+APT Trends report Q2 2017.pdf.txt,COUNTRY,North Korea
+APT Trends report Q2 2017.pdf.txt,COUNTRY,US
+APT Trends report Q2 2017.pdf.txt,TIMESTAMP,Q2 2017
+APT Trends report Q2 2017.pdf.txt,TIMESTAMP,Since 2014
+APT Trends report Q2 2017.pdf.txt,TIMESTAMP,In Q1 of 2017
+APT Trends report Q2 2017.pdf.txt,TIMESTAMP,The second
+APT Trends report Q2 2017.pdf.txt,TIMESTAMP,March
+APT Trends report Q2 2017.pdf.txt,TIMESTAMP,April
+APT Trends report Q2 2017.pdf.txt,TIMESTAMP,2017
+APT Trends report Q2 2017.pdf.txt,TIMESTAMP,May
+APT Trends report Q2 2017.pdf.txt,TIMESTAMP,June
+APT Trends report Q2 2017.pdf.txt,TIMESTAMP,June 2017
+APT Trends report Q2 2017.pdf.txt,TIMESTAMP,as early as 2006
+APT Trends report Q2 2017.pdf.txt,TIMESTAMP,May 2016
+APT Trends report Q2 2017.pdf.txt,TIMESTAMP,June 2015
+APT Trends report Q2 2017.pdf.txt,TIMESTAMP,fall of 2016
+APT Trends report Q2 2017.pdf.txt,TIMESTAMP,During Q2
+APT Trends report Q2 2017.pdf.txt,TIMESTAMP,fall of 2017
+apt-attack-middle-east-big-bang.pdf.txt,SOFTWARE,Word
+apt-attack-middle-east-big-bang.pdf.txt,SOFTWARE,Delphi
+apt-attack-middle-east-big-bang.pdf.txt,SOFTWARE,Microsoft Office
+apt-attack-middle-east-big-bang.pdf.txt,MALWARE,Micropsia
+apt-attack-middle-east-big-bang.pdf.txt,MALWARE,Penny
+apt-attack-middle-east-big-bang.pdf.txt,MALWARE,Wolowitz_Helberg
+apt-attack-middle-east-big-bang.pdf.txt,MALWARE,Celal_Al
+apt-attack-middle-east-big-bang.pdf.txt,MALWARE,Runfile
+apt-attack-middle-east-big-bang.pdf.txt,MALWARE,Nayyar_Sonmez
+apt-attack-middle-east-big-bang.pdf.txt,MALWARE,Koothrappali
+apt-attack-middle-east-big-bang.pdf.txt,MALWARE,Bialik_Gokhan
+apt-attack-middle-east-big-bang.pdf.txt,MALWARE,Hofstadter
+apt-attack-middle-east-big-bang.pdf.txt,MALWARE,Parsons_Sheldon
+apt-attack-middle-east-big-bang.pdf.txt,MALWARE,Reshad_Strik
+apt-attack-middle-east-big-bang.pdf.txt,MALWARE,Pinar8
+apt-attack-middle-east-big-bang.pdf.txt,MALWARE,Mehmet7
+apt-attack-middle-east-big-bang.pdf.txt,MALWARE,Bahar6
+apt-attack-middle-east-big-bang.pdf.txt,MALWARE,RATs
+apt-attack-middle-east-big-bang.pdf.txt,MALWARE,BMW_x1
+apt-attack-middle-east-big-bang.pdf.txt,MALWARE,BMW_x2
+apt-attack-middle-east-big-bang.pdf.txt,MALWARE,BMW_x8
+apt-attack-middle-east-big-bang.pdf.txt,THREAT_ACTOR,APT
+apt-attack-middle-east-big-bang.pdf.txt,THREAT_ACTOR,APT group
+apt-attack-middle-east-big-bang.pdf.txt,THREAT_ACTOR,Gaza Cybergang
+apt-attack-middle-east-big-bang.pdf.txt,CAMPAIGN,The Big Bang
+apt-attack-middle-east-big-bang.pdf.txt,CAMPAIGN,Big Bang
+apt-attack-middle-east-big-bang.pdf.txt,ORG,Check Point Threat Intelligence Team
+apt-attack-middle-east-big-bang.pdf.txt,ORG,Palestinian Authority
+apt-attack-middle-east-big-bang.pdf.txt,ORG,Palestinian Political and National Guidance Commission
+apt-attack-middle-east-big-bang.pdf.txt,ORG,Talos
+apt-attack-middle-east-big-bang.pdf.txt,ORG,Guidance Commission Office
+apt-attack-middle-east-big-bang.pdf.txt,ORG,CHECK POINT
+apt-attack-middle-east-big-bang.pdf.txt,ORG,Check Point Software Technologies
+apt-attack-middle-east-big-bang.pdf.txt,COUNTRY,Middle East
+apt-attack-middle-east-big-bang.pdf.txt,COUNTRY,Ramallah
+apt-attack-middle-east-big-bang.pdf.txt,TIMESTAMP,"July 8, 2018"
+apt-attack-middle-east-big-bang.pdf.txt,TIMESTAMP,Over the last few weeks
+apt-attack-middle-east-big-bang.pdf.txt,TIMESTAMP,June 2017
+apt-attack-middle-east-big-bang.pdf.txt,TIMESTAMP,in the middle of April this year
+apt-attack-middle-east-big-bang.pdf.txt,TIMESTAMP,March 2018
+apt-attack-middle-east-big-bang.pdf.txt,TIMESTAMP,2017
+apt-attack-middle-east-big-bang.pdf.txt,TIMESTAMP,"March 29 , 2018"
+apt-attack-middle-east-big-bang.pdf.txt,TIMESTAMP,during the 2017
+apt-attack-middle-east-big-bang.pdf.txt,TIMESTAMP,over the past year
+apt-attack-middle-east-big-bang.pdf.txt,TIMESTAMP,during 2017
+apt-attack-middle-east-big-bang.pdf.txt,TIMESTAMP,March 2017
+apt-attack-middle-east-big-bang.pdf.txt,TIMESTAMP,over a year later
+apt-attack-middle-east-big-bang.pdf.txt,TIMESTAMP,2018
+APT28-Center-of-Storm-2017.pdf.txt,SOFTWARE,Adobe Flash
+APT28-Center-of-Storm-2017.pdf.txt,SOFTWARE,WordPress
+APT28-Center-of-Storm-2017.pdf.txt,SOFTWARE,CORESHELL
+APT28-Center-of-Storm-2017.pdf.txt,SOFTWARE,Adobe Flash Player
+APT28-Center-of-Storm-2017.pdf.txt,SOFTWARE,Java
+APT28-Center-of-Storm-2017.pdf.txt,SOFTWARE,Windows
+APT28-Center-of-Storm-2017.pdf.txt,SOFTWARE,PowerShell Empire
+APT28-Center-of-Storm-2017.pdf.txt,SOFTWARE,Metasploit
+APT28-Center-of-Storm-2017.pdf.txt,SOFTWARE,Flash
+APT28-Center-of-Storm-2017.pdf.txt,MALWARE,CHOPSTICK
+APT28-Center-of-Storm-2017.pdf.txt,MALWARE,Xagent
+APT28-Center-of-Storm-2017.pdf.txt,MALWARE,webhp
+APT28-Center-of-Storm-2017.pdf.txt,MALWARE,SPLM
+APT28-Center-of-Storm-2017.pdf.txt,MALWARE,fysbis
+APT28-Center-of-Storm-2017.pdf.txt,MALWARE,EVILTOSS
+APT28-Center-of-Storm-2017.pdf.txt,MALWARE,Sedreco
+APT28-Center-of-Storm-2017.pdf.txt,MALWARE,AZZY
+APT28-Center-of-Storm-2017.pdf.txt,MALWARE,ADVSTORESHELL
+APT28-Center-of-Storm-2017.pdf.txt,MALWARE,NETUI
+APT28-Center-of-Storm-2017.pdf.txt,MALWARE,GAMEFISH
+APT28-Center-of-Storm-2017.pdf.txt,MALWARE,Sednit
+APT28-Center-of-Storm-2017.pdf.txt,MALWARE,Seduploader
+APT28-Center-of-Storm-2017.pdf.txt,MALWARE,JHUHUGIT
+APT28-Center-of-Storm-2017.pdf.txt,MALWARE,SOURFACE
+APT28-Center-of-Storm-2017.pdf.txt,MALWARE,CORESHELL
+APT28-Center-of-Storm-2017.pdf.txt,MALWARE,OLDBAIT
+APT28-Center-of-Storm-2017.pdf.txt,MALWARE,Sasfis
+APT28-Center-of-Storm-2017.pdf.txt,MALWARE,Carberp
+APT28-Center-of-Storm-2017.pdf.txt,THREAT_ACTOR,APT28
+APT28-Center-of-Storm-2017.pdf.txt,THREAT_ACTOR,CyberCaliphate
+APT28-Center-of-Storm-2017.pdf.txt,THREAT_ACTOR,CyberBerkut
+APT28-Center-of-Storm-2017.pdf.txt,THREAT_ACTOR,Fancy Bears
+APT28-Center-of-Storm-2017.pdf.txt,THREAT_ACTOR,Fancy Bear
+APT28-Center-of-Storm-2017.pdf.txt,THREAT_ACTOR,Sofacy
+APT28-Center-of-Storm-2017.pdf.txt,ORG,FireEye
+APT28-Center-of-Storm-2017.pdf.txt,ORG,DNC
+APT28-Center-of-Storm-2017.pdf.txt,ORG,Russian Government
+APT28-Center-of-Storm-2017.pdf.txt,ORG,Department of Homeland Security
+APT28-Center-of-Storm-2017.pdf.txt,ORG,DHS
+APT28-Center-of-Storm-2017.pdf.txt,ORG,Federal Bureau of Investigation
+APT28-Center-of-Storm-2017.pdf.txt,ORG,FBI
+APT28-Center-of-Storm-2017.pdf.txt,ORG,"Russian 
+Government"
+APT28-Center-of-Storm-2017.pdf.txt,ORG,NATO
+APT28-Center-of-Storm-2017.pdf.txt,ORG,North Atlantic Treaty Organization
+APT28-Center-of-Storm-2017.pdf.txt,ORG,"Afghan Ministry 
+of Foreign Affairs"
+APT28-Center-of-Storm-2017.pdf.txt,ORG,Pakistani military
+APT28-Center-of-Storm-2017.pdf.txt,ORG,German Bundestag
+APT28-Center-of-Storm-2017.pdf.txt,ORG,Bundesamt für Verfassungsschutz
+APT28-Center-of-Storm-2017.pdf.txt,ORG,BfV
+APT28-Center-of-Storm-2017.pdf.txt,ORG,"Kyrgyzstan Ministry  
+of Foreign Affairs"
+APT28-Center-of-Storm-2017.pdf.txt,ORG,Kyrgyzstan Ministry of Foreign Affairs
+APT28-Center-of-Storm-2017.pdf.txt,ORG,Polish Government
+APT28-Center-of-Storm-2017.pdf.txt,ORG,"JUNE AND  
+SEPTEMBER 2014"
+APT28-Center-of-Storm-2017.pdf.txt,ORG,WADA
+APT28-Center-of-Storm-2017.pdf.txt,ORG,"Democratic  
+Congressional Campaign 
+Committee"
+APT28-Center-of-Storm-2017.pdf.txt,ORG,DCCC
+APT28-Center-of-Storm-2017.pdf.txt,ORG,House of Representative races
+APT28-Center-of-Storm-2017.pdf.txt,ORG,"Ukrainian Central  
+Election Commission "
+APT28-Center-of-Storm-2017.pdf.txt,ORG,CEC
+APT28-Center-of-Storm-2017.pdf.txt,ORG,Democratic National Committee
+APT28-Center-of-Storm-2017.pdf.txt,ORG,RUSADA
+APT28-Center-of-Storm-2017.pdf.txt,ORG,"International 
+Olympic Committee"
+APT28-Center-of-Storm-2017.pdf.txt,ORG,Deutsche Welle
+APT28-Center-of-Storm-2017.pdf.txt,ORG,NBC News
+APT28-Center-of-Storm-2017.pdf.txt,ORG,The Christian Science Monitor
+APT28-Center-of-Storm-2017.pdf.txt,ORG,The BBC
+APT28-Center-of-Storm-2017.pdf.txt,ORG,CNN
+APT28-Center-of-Storm-2017.pdf.txt,ORG,The Telegraph
+APT28-Center-of-Storm-2017.pdf.txt,ORG,The Guardian
+APT28-Center-of-Storm-2017.pdf.txt,ORG,Twitter
+APT28-Center-of-Storm-2017.pdf.txt,ORG,"Directorate of 
+National Intelligence"
+APT28-Center-of-Storm-2017.pdf.txt,COUNTRY,RUSSIA
+APT28-Center-of-Storm-2017.pdf.txt,COUNTRY,Europe
+APT28-Center-of-Storm-2017.pdf.txt,COUNTRY,Soviet Union
+APT28-Center-of-Storm-2017.pdf.txt,COUNTRY,Syria
+APT28-Center-of-Storm-2017.pdf.txt,COUNTRY,European Union
+APT28-Center-of-Storm-2017.pdf.txt,COUNTRY,Poland
+APT28-Center-of-Storm-2017.pdf.txt,COUNTRY,Germany
+APT28-Center-of-Storm-2017.pdf.txt,COUNTRY,France
+APT28-Center-of-Storm-2017.pdf.txt,COUNTRY,Netherlands
+APT28-Center-of-Storm-2017.pdf.txt,TIMESTAMP,"December 29, 2016"
+APT28-Center-of-Storm-2017.pdf.txt,TIMESTAMP,October 2014
+APT28-Center-of-Storm-2017.pdf.txt,TIMESTAMP,JUNE 2015
+APT28-Center-of-Storm-2017.pdf.txt,TIMESTAMP,OCTOBER 2014 THROUGH SEPTEMBER 2015
+APT28-Center-of-Storm-2017.pdf.txt,TIMESTAMP,June 2016
+APT28-Center-of-Storm-2017.pdf.txt,TIMESTAMP,Throughout October and into early November
+APT28-Center-of-Storm-2017.pdf.txt,TIMESTAMP,In July
+APT28-Center-of-Storm-2017.pdf.txt,TIMESTAMP,August to October
+APT28-Center-of-Storm-2017.pdf.txt,TIMESTAMP,FEBRUARY 2015
+APT28-Center-of-Storm-2017.pdf.txt,TIMESTAMP,APRIL 2015
+APT28-Center-of-Storm-2017.pdf.txt,TIMESTAMP,In February
+APT28-Center-of-Storm-2017.pdf.txt,TIMESTAMP,April 2015
+APT28-Center-of-Storm-2017.pdf.txt,TIMESTAMP,MAY 2014
+APT28-Center-of-Storm-2017.pdf.txt,TIMESTAMP,During the May 2014
+APT28-Center-of-Storm-2017.pdf.txt,TIMESTAMP,JULY 18
+APT28-Center-of-Storm-2017.pdf.txt,TIMESTAMP,AUG 4
+APT28-Center-of-Storm-2017.pdf.txt,TIMESTAMP,EARLY AUG
+APT28-Center-of-Storm-2017.pdf.txt,TIMESTAMP,AUG 10
+APT28-Center-of-Storm-2017.pdf.txt,TIMESTAMP,17 June 2014
+APT28-Center-of-Storm-2017.pdf.txt,TIMESTAMP,18 November 2015
+APT28-Center-of-Storm-2017.pdf.txt,TIMESTAMP,18 July 2016
+APT28-Center-of-Storm-2017.pdf.txt,TIMESTAMP,5 August 2016
+APT28-Center-of-Storm-2017.pdf.txt,TIMESTAMP,11 Aug 2016 10:10 AM
+APT28-Center-of-Storm-2017.pdf.txt,TIMESTAMP,Serena Williams
+APT28-Center-of-Storm-2017.pdf.txt,TIMESTAMP,AUG 9
+APT28-Center-of-Storm-2017.pdf.txt,TIMESTAMP,AUG 11
+APT28-Center-of-Storm-2017.pdf.txt,TIMESTAMP,August 11
+APT28-Center-of-Storm-2017.pdf.txt,TIMESTAMP,SEP 12
+APT28-Center-of-Storm-2017.pdf.txt,TIMESTAMP,SEP 13
+APT28-Center-of-Storm-2017.pdf.txt,TIMESTAMP,January 7 2017
+Backdoor.Winnti_Trojan.Skelky.pdf.txt,MALWARE,Skelky
+Backdoor.Winnti_Trojan.Skelky.pdf.txt,ORG,Symantec
+Backdoor.Winnti_Trojan.Skelky.pdf.txt,ORG,Dell
+Backdoor.Winnti_Trojan.Skelky.pdf.txt,ORG,Norton
+Backdoor.Winnti_Trojan.Skelky.pdf.txt,COUNTRY,United States
+Backdoor.Winnti_Trojan.Skelky.pdf.txt,COUNTRY,Vietnam
+Backdoor.Winnti_Trojan.Skelky.pdf.txt,TIMESTAMP,29 Jan 2015
+Backdoor.Winnti_Trojan.Skelky.pdf.txt,TIMESTAMP,"January 12, 2015"
+Backdoor.Winnti_Trojan.Skelky.pdf.txt,TIMESTAMP,January 2013
+Backdoor.Winnti_Trojan.Skelky.pdf.txt,TIMESTAMP,until November 2013
+Backdoor.Winnti_Trojan.Skelky.pdf.txt,TIMESTAMP,In November 2013
+Backdoor.Winnti_Trojan.Skelky.pdf.txt,TIMESTAMP,until at least January 2015
+BlackOasis.pdf.txt,SOFTWARE,Adobe Flash
+BlackOasis.pdf.txt,SOFTWARE,Microsoft Office
+BlackOasis.pdf.txt,SOFTWARE,Windows
+BlackOasis.pdf.txt,SOFTWARE,Macintosh
+BlackOasis.pdf.txt,SOFTWARE,Linux
+BlackOasis.pdf.txt,SOFTWARE,Chrome OS
+BlackOasis.pdf.txt,SOFTWARE,Kaspersky Security Network
+BlackOasis.pdf.txt,SOFTWARE,Office
+BlackOasis.pdf.txt,SOFTWARE,ActiveX
+BlackOasis.pdf.txt,SOFTWARE,Flash
+BlackOasis.pdf.txt,SOFTWARE,flash
+BlackOasis.pdf.txt,SOFTWARE,MICROSOFT WORD
+BlackOasis.pdf.txt,MALWARE,FINSPY
+BlackOasis.pdf.txt,MALWARE,FinSpy
+BlackOasis.pdf.txt,MALWARE,FinFisher
+BlackOasis.pdf.txt,THREAT_ACTOR,BlackOasis
+BlackOasis.pdf.txt,THREAT_ACTOR,APT
+BlackOasis.pdf.txt,THREAT_ACTOR,Gamma International
+BlackOasis.pdf.txt,INDUSTRY,oil
+BlackOasis.pdf.txt,INDUSTRY,money laundering
+BlackOasis.pdf.txt,ORG,Kaspersky
+BlackOasis.pdf.txt,ORG,Kaspersky Lab
+BlackOasis.pdf.txt,ORG,Adobe
+BlackOasis.pdf.txt,ORG,FIREEYE
+BlackOasis.pdf.txt,ORG,United Nations
+BlackOasis.pdf.txt,ORG,HackingTeam
+BlackOasis.pdf.txt,ORG,Adobe Product Security Incident Response Team
+BlackOasis.pdf.txt,ORG,PSIRT
+BlackOasis.pdf.txt,ORG,ADOBE
+BlackOasis.pdf.txt,COUNTRY,Angola
+BlackOasis.pdf.txt,COUNTRY,Russia
+BlackOasis.pdf.txt,COUNTRY,Iraq
+BlackOasis.pdf.txt,COUNTRY,Afghanistan
+BlackOasis.pdf.txt,COUNTRY,Nigeria
+BlackOasis.pdf.txt,COUNTRY,Libya
+BlackOasis.pdf.txt,COUNTRY,Jordan
+BlackOasis.pdf.txt,COUNTRY,Tunisia
+BlackOasis.pdf.txt,COUNTRY,Saudi Arabia
+BlackOasis.pdf.txt,COUNTRY,Iran
+BlackOasis.pdf.txt,COUNTRY,Netherlands
+BlackOasis.pdf.txt,COUNTRY,Bahrain
+BlackOasis.pdf.txt,COUNTRY,United Kingdom
+BlackOasis.pdf.txt,TIMESTAMP,"October 10, 2017"
+BlackOasis.pdf.txt,TIMESTAMP,September 2017
+BlackOasis.pdf.txt,TIMESTAMP,May 2016
+BlackOasis.pdf.txt,TIMESTAMP,"May 10, 2016"
+BlackOasis.pdf.txt,TIMESTAMP,"May 8, 2016"
+BlackOasis.pdf.txt,TIMESTAMP,June 2015
+BlackOasis.pdf.txt,TIMESTAMP,July 2015
+BlackOasis.pdf.txt,TIMESTAMP,February 2016
+BlackOasis.pdf.txt,TIMESTAMP,since June 2015
+BlackOasis.pdf.txt,TIMESTAMP,Sept 2017
+BlackOasis.pdf.txt,TIMESTAMP,Oct 2017
+BlackOasis.pdf.txt,TIMESTAMP,During 2016
+BlackOasis.pdf.txt,TIMESTAMP,2014
+Domestic Kitten An Iranian Surveillance Operation.pdf.txt,SOFTWARE,Vidogram
+Domestic Kitten An Iranian Surveillance Operation.pdf.txt,MALWARE,Gazorp
+Domestic Kitten An Iranian Surveillance Operation.pdf.txt,MALWARE,Azorult
+Domestic Kitten An Iranian Surveillance Operation.pdf.txt,MALWARE,Ransom Warrior
+Domestic Kitten An Iranian Surveillance Operation.pdf.txt,MALWARE,Faxploit
+Domestic Kitten An Iranian Surveillance Operation.pdf.txt,MALWARE,EternalBlue
+Domestic Kitten An Iranian Surveillance Operation.pdf.txt,MALWARE,Black Rose Lucy
+Domestic Kitten An Iranian Surveillance Operation.pdf.txt,MALWARE,MaaS Botnet
+Domestic Kitten An Iranian Surveillance Operation.pdf.txt,MALWARE,CeidPageLock
+Domestic Kitten An Iranian Surveillance Operation.pdf.txt,THREAT_ACTOR,Domestic Kitten
+Domestic Kitten An Iranian Surveillance Operation.pdf.txt,THREAT_ACTOR,APT
+Domestic Kitten An Iranian Surveillance Operation.pdf.txt,ORG,Check Point
+Domestic Kitten An Iranian Surveillance Operation.pdf.txt,ORG,ISIS
+Domestic Kitten An Iranian Surveillance Operation.pdf.txt,ORG,Islamic Revolutionary Guard Corps
+Domestic Kitten An Iranian Surveillance Operation.pdf.txt,ORG,IRGC
+Domestic Kitten An Iranian Surveillance Operation.pdf.txt,ORG,Ministry of Intelligence
+Domestic Kitten An Iranian Surveillance Operation.pdf.txt,ORG,Ministry of Interior and others
+Domestic Kitten An Iranian Surveillance Operation.pdf.txt,ORG,ANF
+Domestic Kitten An Iranian Surveillance Operation.pdf.txt,ORG,Kurdistan news agency
+Domestic Kitten An Iranian Surveillance Operation.pdf.txt,ORG,ANF News Agency
+Domestic Kitten An Iranian Surveillance Operation.pdf.txt,ORG,ISIS4
+Domestic Kitten An Iranian Surveillance Operation.pdf.txt,ORG,Institute for National Security Studies
+Domestic Kitten An Iranian Surveillance Operation.pdf.txt,ORG,INSS
+Domestic Kitten An Iranian Surveillance Operation.pdf.txt,COUNTRY,Middle East
+Domestic Kitten An Iranian Surveillance Operation.pdf.txt,COUNTRY,Western Iran
+Domestic Kitten An Iranian Surveillance Operation.pdf.txt,COUNTRY,Iran
+Domestic Kitten An Iranian Surveillance Operation.pdf.txt,TIMESTAMP,"September 7, 2018"
+Domestic Kitten An Iranian Surveillance Operation.pdf.txt,TIMESTAMP,since 2016
+Domestic Kitten An Iranian Surveillance Operation.pdf.txt,TIMESTAMP,2016
+Gamaredon APT Group Use Covid-19 Lure in Campaigns - TrendLabs Security Intelligence Blog.pdf.txt,SOFTWARE,Windows
+Gamaredon APT Group Use Covid-19 Lure in Campaigns - TrendLabs Security Intelligence Blog.pdf.txt,SOFTWARE,Deep Discovery
+Gamaredon APT Group Use Covid-19 Lure in Campaigns - TrendLabs Security Intelligence Blog.pdf.txt,SOFTWARE,OfficeScan
+Gamaredon APT Group Use Covid-19 Lure in Campaigns - TrendLabs Security Intelligence Blog.pdf.txt,SOFTWARE,TMXDR
+Gamaredon APT Group Use Covid-19 Lure in Campaigns - TrendLabs Security Intelligence Blog.pdf.txt,MALWARE,TrendX
+Gamaredon APT Group Use Covid-19 Lure in Campaigns - TrendLabs Security Intelligence Blog.pdf.txt,MALWARE,Proyecto RAT
+Gamaredon APT Group Use Covid-19 Lure in Campaigns - TrendLabs Security Intelligence Blog.pdf.txt,THREAT_ACTOR,Gamaredon
+Gamaredon APT Group Use Covid-19 Lure in Campaigns - TrendLabs Security Intelligence Blog.pdf.txt,THREAT_ACTOR,Gameradon
+Gamaredon APT Group Use Covid-19 Lure in Campaigns - TrendLabs Security Intelligence Blog.pdf.txt,THREAT_ACTOR,Lazarus
+Gamaredon APT Group Use Covid-19 Lure in Campaigns - TrendLabs Security Intelligence Blog.pdf.txt,MITRE_ATTACK,T1193
+Gamaredon APT Group Use Covid-19 Lure in Campaigns - TrendLabs Security Intelligence Blog.pdf.txt,MITRE_ATTACK,T1204
+Gamaredon APT Group Use Covid-19 Lure in Campaigns - TrendLabs Security Intelligence Blog.pdf.txt,MITRE_ATTACK,T1221
+Gamaredon APT Group Use Covid-19 Lure in Campaigns - TrendLabs Security Intelligence Blog.pdf.txt,MITRE_ATTACK,T1064
+Gamaredon APT Group Use Covid-19 Lure in Campaigns - TrendLabs Security Intelligence Blog.pdf.txt,MITRE_ATTACK,T1140
+Gamaredon APT Group Use Covid-19 Lure in Campaigns - TrendLabs Security Intelligence Blog.pdf.txt,MITRE_ATTACK,T1060
+Gamaredon APT Group Use Covid-19 Lure in Campaigns - TrendLabs Security Intelligence Blog.pdf.txt,MITRE_ATTACK,T1043
+Gamaredon APT Group Use Covid-19 Lure in Campaigns - TrendLabs Security Intelligence Blog.pdf.txt,MITRE_ATTACK,T1071
+Gamaredon APT Group Use Covid-19 Lure in Campaigns - TrendLabs Security Intelligence Blog.pdf.txt,MITRE_ATTACK,T1082
+Gamaredon APT Group Use Covid-19 Lure in Campaigns - TrendLabs Security Intelligence Blog.pdf.txt,MITRE_ATTACK,T1105
+Gamaredon APT Group Use Covid-19 Lure in Campaigns - TrendLabs Security Intelligence Blog.pdf.txt,MITRE_ATTACK,T1001
+Gamaredon APT Group Use Covid-19 Lure in Campaigns - TrendLabs Security Intelligence Blog.pdf.txt,MITRE_ATTACK,T1107
+Gamaredon APT Group Use Covid-19 Lure in Campaigns - TrendLabs Security Intelligence Blog.pdf.txt,CAMPAIGN,Poisoned News
+Gamaredon APT Group Use Covid-19 Lure in Campaigns - TrendLabs Security Intelligence Blog.pdf.txt,ORG,Trend Micro
+Gamaredon APT Group Use Covid-19 Lure in Campaigns - TrendLabs Security Intelligence Blog.pdf.txt,ORG,Ukrainian government
+Gamaredon APT Group Use Covid-19 Lure in Campaigns - TrendLabs Security Intelligence Blog.pdf.txt,ORG,LookingGlass
+Gamaredon APT Group Use Covid-19 Lure in Campaigns - TrendLabs Security Intelligence Blog.pdf.txt,COUNTRY,Australia
+Gamaredon APT Group Use Covid-19 Lure in Campaigns - TrendLabs Security Intelligence Blog.pdf.txt,COUNTRY,New Zealand
+Gamaredon APT Group Use Covid-19 Lure in Campaigns - TrendLabs Security Intelligence Blog.pdf.txt,COUNTRY,Brasil
+Gamaredon APT Group Use Covid-19 Lure in Campaigns - TrendLabs Security Intelligence Blog.pdf.txt,COUNTRY,United States
+Gamaredon APT Group Use Covid-19 Lure in Campaigns - TrendLabs Security Intelligence Blog.pdf.txt,COUNTRY,Canada
+Gamaredon APT Group Use Covid-19 Lure in Campaigns - TrendLabs Security Intelligence Blog.pdf.txt,COUNTRY,France
+Gamaredon APT Group Use Covid-19 Lure in Campaigns - TrendLabs Security Intelligence Blog.pdf.txt,COUNTRY,Deutschland
+Gamaredon APT Group Use Covid-19 Lure in Campaigns - TrendLabs Security Intelligence Blog.pdf.txt,COUNTRY,Schweiz
+Gamaredon APT Group Use Covid-19 Lure in Campaigns - TrendLabs Security Intelligence Blog.pdf.txt,COUNTRY,Italia
+Gamaredon APT Group Use Covid-19 Lure in Campaigns - TrendLabs Security Intelligence Blog.pdf.txt,COUNTRY,United Kingdom
+Gamaredon APT Group Use Covid-19 Lure in Campaigns - TrendLabs Security Intelligence Blog.pdf.txt,COUNTRY,Ireland
+Gamaredon APT Group Use Covid-19 Lure in Campaigns - TrendLabs Security Intelligence Blog.pdf.txt,TIMESTAMP,"April 17, 2020 at 5:12 am"
+Gamaredon APT Group Use Covid-19 Lure in Campaigns - TrendLabs Security Intelligence Blog.pdf.txt,TIMESTAMP,February 2020
+Gaza Cybergang - updated activity in 2017_ - Securelist.pdf.txt,SOFTWARE,Microsoft Access
+Gaza Cybergang - updated activity in 2017_ - Securelist.pdf.txt,SOFTWARE,MS Access
+Gaza Cybergang - updated activity in 2017_ - Securelist.pdf.txt,SOFTWARE,Microsoft office
+Gaza Cybergang - updated activity in 2017_ - Securelist.pdf.txt,SOFTWARE,Windows
+Gaza Cybergang - updated activity in 2017_ - Securelist.pdf.txt,SOFTWARE,Microsoft Office Word
+Gaza Cybergang - updated activity in 2017_ - Securelist.pdf.txt,MALWARE,Android mobile malware
+Gaza Cybergang - updated activity in 2017_ - Securelist.pdf.txt,MALWARE,Remote Access Trojans
+Gaza Cybergang - updated activity in 2017_ - Securelist.pdf.txt,MALWARE,RATs
+Gaza Cybergang - updated activity in 2017_ - Securelist.pdf.txt,MALWARE,Downeks
+Gaza Cybergang - updated activity in 2017_ - Securelist.pdf.txt,MALWARE,Qasar
+Gaza Cybergang - updated activity in 2017_ - Securelist.pdf.txt,MALWARE,Cobaltstrike
+Gaza Cybergang - updated activity in 2017_ - Securelist.pdf.txt,MALWARE,Android Trojan
+Gaza Cybergang - updated activity in 2017_ - Securelist.pdf.txt,MALWARE,Mobile malware
+Gaza Cybergang - updated activity in 2017_ - Securelist.pdf.txt,MALWARE,Android malware
+Gaza Cybergang - updated activity in 2017_ - Securelist.pdf.txt,MALWARE,Quasar
+Gaza Cybergang - updated activity in 2017_ - Securelist.pdf.txt,MALWARE,Ole2Link
+Gaza Cybergang - updated activity in 2017_ - Securelist.pdf.txt,MALWARE,android Trojan
+Gaza Cybergang - updated activity in 2017_ - Securelist.pdf.txt,MALWARE,Bad Rabbit
+Gaza Cybergang - updated activity in 2017_ - Securelist.pdf.txt,THREAT_ACTOR,Gaza cybergang
+Gaza Cybergang - updated activity in 2017_ - Securelist.pdf.txt,THREAT_ACTOR,APT
+Gaza Cybergang - updated activity in 2017_ - Securelist.pdf.txt,THREAT_ACTOR,BlackOasis APT
+Gaza Cybergang - updated activity in 2017_ - Securelist.pdf.txt,INDUSTRY,oil
+Gaza Cybergang - updated activity in 2017_ - Securelist.pdf.txt,INDUSTRY,gas
+Gaza Cybergang - updated activity in 2017_ - Securelist.pdf.txt,ORG,GReAT
+Gaza Cybergang - updated activity in 2017_ - Securelist.pdf.txt,ORG,Kaspersky Lab
+Gaza Cybergang - updated activity in 2017_ - Securelist.pdf.txt,ORG,Kaspersky Intelligence Reporting Service
+Gaza Cybergang - updated activity in 2017_ - Securelist.pdf.txt,ORG,Heads of Missions
+Gaza Cybergang - updated activity in 2017_ - Securelist.pdf.txt,ORG,Hamas
+Gaza Cybergang - updated activity in 2017_ - Securelist.pdf.txt,ORG,Fateh movement
+Gaza Cybergang - updated activity in 2017_ - Securelist.pdf.txt,ORG,Fateh
+Gaza Cybergang - updated activity in 2017_ - Securelist.pdf.txt,ORG,Political Bureau
+Gaza Cybergang - updated activity in 2017_ - Securelist.pdf.txt,ORG,Palestinian Government
+Gaza Cybergang - updated activity in 2017_ - Securelist.pdf.txt,ORG,Qatar News Agency
+Gaza Cybergang - updated activity in 2017_ - Securelist.pdf.txt,ORG,United Nation
+Gaza Cybergang - updated activity in 2017_ - Securelist.pdf.txt,COUNTRY,MENA
+Gaza Cybergang - updated activity in 2017_ - Securelist.pdf.txt,COUNTRY,UAE
+Gaza Cybergang - updated activity in 2017_ - Securelist.pdf.txt,COUNTRY,Gaza Strip
+Gaza Cybergang - updated activity in 2017_ - Securelist.pdf.txt,COUNTRY,Qatar
+Gaza Cybergang - updated activity in 2017_ - Securelist.pdf.txt,COUNTRY,Middle East
+Gaza Cybergang - updated activity in 2017_ - Securelist.pdf.txt,COUNTRY,Arab states of the Gulf
+Gaza Cybergang - updated activity in 2017_ - Securelist.pdf.txt,COUNTRY,GCC
+Gaza Cybergang - updated activity in 2017_ - Securelist.pdf.txt,CITY,Gaza
+Gaza Cybergang - updated activity in 2017_ - Securelist.pdf.txt,CITY,Geneva
+Gaza Cybergang - updated activity in 2017_ - Securelist.pdf.txt,TIMESTAMP,since 2012
+Gaza Cybergang - updated activity in 2017_ - Securelist.pdf.txt,TIMESTAMP,for more than a year
+Gaza Cybergang - updated activity in 2017_ - Securelist.pdf.txt,TIMESTAMP,late April 2017
+Gaza Cybergang - updated activity in 2017_ - Securelist.pdf.txt,TIMESTAMP,2017
+Gaza Cybergang - updated activity in 2017_ - Securelist.pdf.txt,TIMESTAMP,June 2017
+Gaza Cybergang - updated activity in 2017_ - Securelist.pdf.txt,TIMESTAMP,April 2017
+Gaza Cybergang - updated activity in 2017_ - Securelist.pdf.txt,TIMESTAMP,March 2017
+Gaza Cybergang - updated activity in 2017_ - Securelist.pdf.txt,TIMESTAMP,next Tuesday
+Gaza Cybergang - updated activity in 2017_ - Securelist.pdf.txt,TIMESTAMP,27 May 2017
+Gaza Cybergang - updated activity in 2017_ - Securelist.pdf.txt,TIMESTAMP,5 April 2017
+Gaza Cybergang - updated activity in 2017_ - Securelist.pdf.txt,TIMESTAMP,21 March 2017
+Gaza Cybergang - updated activity in 2017_ - Securelist.pdf.txt,TIMESTAMP,16 March 2017
+Gaza Cybergang - updated activity in 2017_ - Securelist.pdf.txt,TIMESTAMP,27 April 2017
+Gaza Cybergang - updated activity in 2017_ - Securelist.pdf.txt,TIMESTAMP,14 March 2017
+Gaza Cybergang - updated activity in 2017_ - Securelist.pdf.txt,TIMESTAMP,30 March 2017
+Gaza Cybergang - updated activity in 2017_ - Securelist.pdf.txt,TIMESTAMP,17 April 2017
+Gaza Cybergang - updated activity in 2017_ - Securelist.pdf.txt,TIMESTAMP,16 April 2017
+Group-IB_Lazarus.pdf.txt,SOFTWARE,SWIFT
+Group-IB_Lazarus.pdf.txt,SOFTWARE,Flash
+Group-IB_Lazarus.pdf.txt,SOFTWARE,SilverLight
+Group-IB_Lazarus.pdf.txt,SOFTWARE,JBoss
+Group-IB_Lazarus.pdf.txt,SOFTWARE,Liferay
+Group-IB_Lazarus.pdf.txt,SOFTWARE,Windows
+Group-IB_Lazarus.pdf.txt,SOFTWARE,Linux
+Group-IB_Lazarus.pdf.txt,SOFTWARE,FreeBSD
+Group-IB_Lazarus.pdf.txt,SOFTWARE,Solaris
+Group-IB_Lazarus.pdf.txt,SOFTWARE,Mac OS X
+Group-IB_Lazarus.pdf.txt,SOFTWARE,Whois
+Group-IB_Lazarus.pdf.txt,SOFTWARE,Microsoft
+Group-IB_Lazarus.pdf.txt,SOFTWARE,Adobe
+Group-IB_Lazarus.pdf.txt,SOFTWARE,Threat Intelligence
+Group-IB_Lazarus.pdf.txt,SOFTWARE,TDS Sensor
+Group-IB_Lazarus.pdf.txt,SOFTWARE,TDS Polygon
+Group-IB_Lazarus.pdf.txt,SOFTWARE,Incident Response
+Group-IB_Lazarus.pdf.txt,SOFTWARE,Secure Bank
+Group-IB_Lazarus.pdf.txt,SOFTWARE,Brand Protection
+Group-IB_Lazarus.pdf.txt,SOFTWARE,Computer Forensics and Investigation
+Group-IB_Lazarus.pdf.txt,MALWARE,Client_TrafficForwarder
+Group-IB_Lazarus.pdf.txt,MALWARE,BlackEnergy
+Group-IB_Lazarus.pdf.txt,MALWARE,RIG
+Group-IB_Lazarus.pdf.txt,MALWARE,Angler
+Group-IB_Lazarus.pdf.txt,MALWARE,Flash exploits
+Group-IB_Lazarus.pdf.txt,MALWARE,Neutrino Exploit Kit
+Group-IB_Lazarus.pdf.txt,MALWARE,ServerRAT
+Group-IB_Lazarus.pdf.txt,MALWARE,Admin_Tool
+Group-IB_Lazarus.pdf.txt,MALWARE,Backend_Listenerr
+Group-IB_Lazarus.pdf.txt,MALWARE,Backend_Listener
+Group-IB_Lazarus.pdf.txt,MALWARE,RECON
+Group-IB_Lazarus.pdf.txt,MALWARE,Dropper
+Group-IB_Lazarus.pdf.txt,MALWARE,Loader
+Group-IB_Lazarus.pdf.txt,MALWARE,Client_RAT
+Group-IB_Lazarus.pdf.txt,MALWARE,Ghost RAT
+Group-IB_Lazarus.pdf.txt,MALWARE,SilverLight exploit
+Group-IB_Lazarus.pdf.txt,MALWARE,Flash exploit
+Group-IB_Lazarus.pdf.txt,MALWARE,Reconnaissance module
+Group-IB_Lazarus.pdf.txt,MALWARE,Server_TrafficForwarder
+Group-IB_Lazarus.pdf.txt,MALWARE,BACKEND_LISTENER
+Group-IB_Lazarus.pdf.txt,MALWARE,Backdoor
+Group-IB_Lazarus.pdf.txt,MALWARE,Payload
+Group-IB_Lazarus.pdf.txt,MALWARE,RAT
+Group-IB_Lazarus.pdf.txt,THREAT_ACTOR,Lazarus
+Group-IB_Lazarus.pdf.txt,THREAT_ACTOR,DarkSeoul
+Group-IB_Lazarus.pdf.txt,TOOL,SoftEther VPN
+Group-IB_Lazarus.pdf.txt,TOOL,Enigma Protector
+Group-IB_Lazarus.pdf.txt,INDUSTRY,banks
+Group-IB_Lazarus.pdf.txt,INDUSTRY,bank
+Group-IB_Lazarus.pdf.txt,INDUSTRY,financial
+Group-IB_Lazarus.pdf.txt,INDUSTRY,FMCG brands
+Group-IB_Lazarus.pdf.txt,INDUSTRY,oil
+Group-IB_Lazarus.pdf.txt,INDUSTRY,gas
+Group-IB_Lazarus.pdf.txt,INDUSTRY,telecommunications
+Group-IB_Lazarus.pdf.txt,ORG,Central Bank of Bangladesh
+Group-IB_Lazarus.pdf.txt,ORG,Arirang
+Group-IB_Lazarus.pdf.txt,ORG,Bureau 121
+Group-IB_Lazarus.pdf.txt,ORG,Reconnaissance General Bureau
+Group-IB_Lazarus.pdf.txt,ORG,North Korean intelligence agency
+Group-IB_Lazarus.pdf.txt,ORG,NSA
+Group-IB_Lazarus.pdf.txt,ORG,The Polish Financial Supervision Authority
+Group-IB_Lazarus.pdf.txt,ORG,National Banking and Securities Commission
+Group-IB_Lazarus.pdf.txt,ORG,Banco de la República Oriental del Uruguay
+Group-IB_Lazarus.pdf.txt,ORG,University of Tsukuba
+Group-IB_Lazarus.pdf.txt,ORG,China Netcom
+Group-IB_Lazarus.pdf.txt,ORG,Natinal Defence Commission
+Group-IB_Lazarus.pdf.txt,ORG,Arirang News
+Group-IB_Lazarus.pdf.txt,ORG,1st Bureau Operations
+Group-IB_Lazarus.pdf.txt,ORG,2nd Bureau Reconnaissance
+Group-IB_Lazarus.pdf.txt,ORG,3rd Bureau Foreign Intelligence
+Group-IB_Lazarus.pdf.txt,ORG,6th Bureau Technical
+Group-IB_Lazarus.pdf.txt,ORG,7th Bureau Rear Services
+Group-IB_Lazarus.pdf.txt,ORG,Gartner
+Group-IB_Lazarus.pdf.txt,ORG,OSCE
+Group-IB_Lazarus.pdf.txt,ORG,IDC
+Group-IB_Lazarus.pdf.txt,ORG,World Economic Forum
+Group-IB_Lazarus.pdf.txt,ORG,Japan Network Information Center
+Group-IB_Lazarus.pdf.txt,ORG,Shanghai Telecom
+Group-IB_Lazarus.pdf.txt,ORG,Universite du Quebec
+Group-IB_Lazarus.pdf.txt,ORG,Taiwan Network Information Center
+Group-IB_Lazarus.pdf.txt,COUNTRY,North Korea
+Group-IB_Lazarus.pdf.txt,COUNTRY,Middle East
+Group-IB_Lazarus.pdf.txt,COUNTRY,US
+Group-IB_Lazarus.pdf.txt,COUNTRY,Canada
+Group-IB_Lazarus.pdf.txt,COUNTRY,Great Britain
+Group-IB_Lazarus.pdf.txt,COUNTRY,India
+Group-IB_Lazarus.pdf.txt,COUNTRY,Bulgaria
+Group-IB_Lazarus.pdf.txt,COUNTRY,Poland
+Group-IB_Lazarus.pdf.txt,COUNTRY,Turkey
+Group-IB_Lazarus.pdf.txt,COUNTRY,Japan
+Group-IB_Lazarus.pdf.txt,COUNTRY,China
+Group-IB_Lazarus.pdf.txt,COUNTRY,Mexico
+Group-IB_Lazarus.pdf.txt,COUNTRY,Uruguay
+Group-IB_Lazarus.pdf.txt,COUNTRY,Western Europe
+Group-IB_Lazarus.pdf.txt,COUNTRY,Asia
+Group-IB_Lazarus.pdf.txt,COUNTRY,Australia
+Group-IB_Lazarus.pdf.txt,COUNTRY,Eastern Europe
+Group-IB_Lazarus.pdf.txt,COUNTRY,Thailand
+Group-IB_Lazarus.pdf.txt,COUNTRY,Kuwait
+Group-IB_Lazarus.pdf.txt,COUNTRY,USA
+Group-IB_Lazarus.pdf.txt,COUNTRY,Russia
+Group-IB_Lazarus.pdf.txt,COUNTRY,Italy
+Group-IB_Lazarus.pdf.txt,COUNTRY,Taiwan
+Group-IB_Lazarus.pdf.txt,TIMESTAMP,February 2016
+Group-IB_Lazarus.pdf.txt,TIMESTAMP,February 2017
+Group-IB_Lazarus.pdf.txt,TIMESTAMP,2016
+Group-IB_Lazarus.pdf.txt,TIMESTAMP,Since 2016
+Group-IB_Lazarus.pdf.txt,TIMESTAMP,March 2016
+Group-IB_Lazarus.pdf.txt,TIMESTAMP,FEB 2016
+Group-IB_Lazarus.pdf.txt,TIMESTAMP,Since 2003
+Group-IB_Lazarus.pdf.txt,TIMESTAMP,2017
+Group-IB_Lazarus.pdf.txt,TIMESTAMP,"May 30, 2016"
+Group-IB_Lazarus.pdf.txt,TIMESTAMP,since 2003
+LazarusContinuesHeistsMountAttacksOnFinancialOrganizationsInLatinAmerica.pdf.txt,SOFTWARE,Trend Micro
+LazarusContinuesHeistsMountAttacksOnFinancialOrganizationsInLatinAmerica.pdf.txt,SOFTWARE,ActiveX
+LazarusContinuesHeistsMountAttacksOnFinancialOrganizationsInLatinAmerica.pdf.txt,SOFTWARE,Trend Micro Deep Discovery
+LazarusContinuesHeistsMountAttacksOnFinancialOrganizationsInLatinAmerica.pdf.txt,SOFTWARE,XGen
+LazarusContinuesHeistsMountAttacksOnFinancialOrganizationsInLatinAmerica.pdf.txt,SOFTWARE,Hybrid Cloud Security
+LazarusContinuesHeistsMountAttacksOnFinancialOrganizationsInLatinAmerica.pdf.txt,SOFTWARE,User Protection
+LazarusContinuesHeistsMountAttacksOnFinancialOrganizationsInLatinAmerica.pdf.txt,SOFTWARE,Network Defense
+LazarusContinuesHeistsMountAttacksOnFinancialOrganizationsInLatinAmerica.pdf.txt,THREAT_ACTOR,Lazarus
+LazarusContinuesHeistsMountAttacksOnFinancialOrganizationsInLatinAmerica.pdf.txt,THREAT_ACTOR,Bluenoroff
+LazarusContinuesHeistsMountAttacksOnFinancialOrganizationsInLatinAmerica.pdf.txt,ORG,BAE Systems
+LazarusContinuesHeistsMountAttacksOnFinancialOrganizationsInLatinAmerica.pdf.txt,ORG,Trend Micro
+LazarusContinuesHeistsMountAttacksOnFinancialOrganizationsInLatinAmerica.pdf.txt,COUNTRY,Latin America
+LazarusContinuesHeistsMountAttacksOnFinancialOrganizationsInLatinAmerica.pdf.txt,COUNTRY,Asia
+LazarusContinuesHeistsMountAttacksOnFinancialOrganizationsInLatinAmerica.pdf.txt,COUNTRY,Africa
+LazarusContinuesHeistsMountAttacksOnFinancialOrganizationsInLatinAmerica.pdf.txt,TIMESTAMP,"November 20, 2018"
+LazarusContinuesHeistsMountAttacksOnFinancialOrganizationsInLatinAmerica.pdf.txt,TIMESTAMP,last week
+LazarusContinuesHeistsMountAttacksOnFinancialOrganizationsInLatinAmerica.pdf.txt,TIMESTAMP,September 19 2018
+LazarusContinuesHeistsMountAttacksOnFinancialOrganizationsInLatinAmerica.pdf.txt,TIMESTAMP,2017
+LazarusContinuesHeistsMountAttacksOnFinancialOrganizationsInLatinAmerica.pdf.txt,TIMESTAMP,September 2018
+LazarusContinuesHeistsMountAttacksOnFinancialOrganizationsInLatinAmerica.pdf.txt,TIMESTAMP,2018
+Leviathan_Espionage_actor.pdf.txt,SOFTWARE,Microsoft Excel
+Leviathan_Espionage_actor.pdf.txt,SOFTWARE,Microsoft Publisher
+Leviathan_Espionage_actor.pdf.txt,SOFTWARE,JavaScript
+Leviathan_Espionage_actor.pdf.txt,SOFTWARE,PowerShell
+Leviathan_Espionage_actor.pdf.txt,SOFTWARE,Word
+Leviathan_Espionage_actor.pdf.txt,MALWARE,Orz
+Leviathan_Espionage_actor.pdf.txt,MALWARE,NanHaiShu
+Leviathan_Espionage_actor.pdf.txt,MALWARE,Cobalt Strike
+Leviathan_Espionage_actor.pdf.txt,MALWARE,Meterpreter
+Leviathan_Espionage_actor.pdf.txt,THREAT_ACTOR,Leviathan
+Leviathan_Espionage_actor.pdf.txt,TOOL,WMI
+Leviathan_Espionage_actor.pdf.txt,TOOL,regsvr32
+Leviathan_Espionage_actor.pdf.txt,INDUSTRY,shipbuilding
+Leviathan_Espionage_actor.pdf.txt,INDUSTRY,IT
+Leviathan_Espionage_actor.pdf.txt,MITRE_ATTACK,Squiblydoo
+Leviathan_Espionage_actor.pdf.txt,ORG,Microsoft
+Leviathan_Espionage_actor.pdf.txt,ORG,McAfee
+Leviathan_Espionage_actor.pdf.txt,ORG,APEC
+Leviathan_Espionage_actor.pdf.txt,ORG,THE Navy
+Leviathan_Espionage_actor.pdf.txt,ORG,the Navy
+Leviathan_Espionage_actor.pdf.txt,ORG,Pastebin
+Leviathan_Espionage_actor.pdf.txt,COUNTRY,United States
+Leviathan_Espionage_actor.pdf.txt,COUNTRY,Western Europe
+Leviathan_Espionage_actor.pdf.txt,COUNTRY,South China Sea
+Leviathan_Espionage_actor.pdf.txt,COUNTRY,South China sea
+Leviathan_Espionage_actor.pdf.txt,COUNTRY,US
+Leviathan_Espionage_actor.pdf.txt,TIMESTAMP,"October 17, 2017"
+Leviathan_Espionage_actor.pdf.txt,TIMESTAMP,since at least 2014
+Leviathan_Espionage_actor.pdf.txt,TIMESTAMP,September 2017
+Leviathan_Espionage_actor.pdf.txt,TIMESTAMP,"September 15 and 19, 2017"
+Leviathan_Espionage_actor.pdf.txt,TIMESTAMP,August 2017
+Leviathan_Espionage_actor.pdf.txt,TIMESTAMP,Between August 2 and 4
+Leviathan_Espionage_actor.pdf.txt,TIMESTAMP,February 2015
+Leviathan_Espionage_actor.pdf.txt,TIMESTAMP,From February to October of 2015
+Leviathan_Espionage_actor.pdf.txt,TIMESTAMP,November 2014
+Leviathan_Espionage_actor.pdf.txt,TIMESTAMP,January 2015
+Leviathan_Espionage_actor.pdf.txt,TIMESTAMP,since 2014
+Leviathan_Espionage_actor.pdf.txt,TIMESTAMP,2015
+Leviathan_Espionage_actor.pdf.txt,TIMESTAMP,earlier in 2014
+Leviathan_Espionage_actor.pdf.txt,TIMESTAMP,"Sep 19, 2017"
+Leviathan_Espionage_actor.pdf.txt,TIMESTAMP,December 2014
+Mandiant_APT1_Report.pdf.txt,SOFTWARE,Remote Desktop
+Mandiant_APT1_Report.pdf.txt,SOFTWARE,Mandiant Managed Defense
+Mandiant_APT1_Report.pdf.txt,SOFTWARE,Mandiant Intelligent Response
+Mandiant_APT1_Report.pdf.txt,SOFTWARE,RedLine
+Mandiant_APT1_Report.pdf.txt,SOFTWARE,Word 2007
+Mandiant_APT1_Report.pdf.txt,SOFTWARE,Rocketmail
+Mandiant_APT1_Report.pdf.txt,SOFTWARE,MSN Messenger
+Mandiant_APT1_Report.pdf.txt,SOFTWARE,Gmail Calendar
+Mandiant_APT1_Report.pdf.txt,SOFTWARE,Microsoft Outlook
+Mandiant_APT1_Report.pdf.txt,SOFTWARE,Microsoft Exchange Server
+Mandiant_APT1_Report.pdf.txt,SOFTWARE,Windows 2000
+Mandiant_APT1_Report.pdf.txt,SOFTWARE,MIR
+Mandiant_APT1_Report.pdf.txt,SOFTWARE,Gmail
+Mandiant_APT1_Report.pdf.txt,SOFTWARE,Windows
+Mandiant_APT1_Report.pdf.txt,SOFTWARE,REDLINE
+Mandiant_APT1_Report.pdf.txt,SOFTWARE,TimeWrinkles
+Mandiant_APT1_Report.pdf.txt,SOFTWARE,TimeCrunches
+Mandiant_APT1_Report.pdf.txt,MALWARE,GETMAIL
+Mandiant_APT1_Report.pdf.txt,MALWARE,MAPIGET
+Mandiant_APT1_Report.pdf.txt,MALWARE,AURIGA
+Mandiant_APT1_Report.pdf.txt,MALWARE,BANGAT
+Mandiant_APT1_Report.pdf.txt,MALWARE,Poison Ivy
+Mandiant_APT1_Report.pdf.txt,MALWARE,Gh0st RAT
+Mandiant_APT1_Report.pdf.txt,MALWARE,Beachhead Backdoors
+Mandiant_APT1_Report.pdf.txt,MALWARE,Standard Backdoors
+Mandiant_APT1_Report.pdf.txt,MALWARE,WEBC2
+Mandiant_APT1_Report.pdf.txt,MALWARE,weBC2
+Mandiant_APT1_Report.pdf.txt,MALWARE,SEASALT
+Mandiant_APT1_Report.pdf.txt,MALWARE,LONGRUN
+Mandiant_APT1_Report.pdf.txt,MALWARE,WARP TABMSGSQL
+Mandiant_APT1_Report.pdf.txt,MALWARE,COOKIEBAG
+Mandiant_APT1_Report.pdf.txt,MALWARE,GLOOXMAIL
+Mandiant_APT1_Report.pdf.txt,MALWARE,MINIASP
+Mandiant_APT1_Report.pdf.txt,MALWARE,BOUNCER
+Mandiant_APT1_Report.pdf.txt,MALWARE,CALENDAR
+Mandiant_APT1_Report.pdf.txt,MALWARE,GDOCUPLOAD
+Mandiant_APT1_Report.pdf.txt,MALWARE,LIGHTBOLT
+Mandiant_APT1_Report.pdf.txt,MALWARE,LIGHTDART
+Mandiant_APT1_Report.pdf.txt,MALWARE,BISCUIT
+Mandiant_APT1_Report.pdf.txt,MALWARE,STARSYPOUNDTARSIP
+Mandiant_APT1_Report.pdf.txt,MALWARE,DAIRY
+Mandiant_APT1_Report.pdf.txt,MALWARE,SWORD
+Mandiant_APT1_Report.pdf.txt,MALWARE,HELAUTO
+Mandiant_APT1_Report.pdf.txt,MALWARE,MACROMAILGOGGLES
+Mandiant_APT1_Report.pdf.txt,MALWARE,MaCroMaIL
+Mandiant_APT1_Report.pdf.txt,MALWARE,GLooxMaIL
+Mandiant_APT1_Report.pdf.txt,MALWARE,CaLenDar
+Mandiant_APT1_Report.pdf.txt,MALWARE,MANITSME
+Mandiant_APT1_Report.pdf.txt,MALWARE,GREENCAT
+Mandiant_APT1_Report.pdf.txt,MALWARE,MACROMAIL
+Mandiant_APT1_Report.pdf.txt,MALWARE,TABMSGSQL
+Mandiant_APT1_Report.pdf.txt,MALWARE,TARSIP
+Mandiant_APT1_Report.pdf.txt,THREAT_ACTOR,APT1
+Mandiant_APT1_Report.pdf.txt,THREAT_ACTOR,PLA Unit 61398
+Mandiant_APT1_Report.pdf.txt,THREAT_ACTOR,APT
+Mandiant_APT1_Report.pdf.txt,THREAT_ACTOR,Unit 61398
+Mandiant_APT1_Report.pdf.txt,THREAT_ACTOR,unit 61398
+Mandiant_APT1_Report.pdf.txt,THREAT_ACTOR,PLa unIt 61398
+Mandiant_APT1_Report.pdf.txt,THREAT_ACTOR,APT group
+Mandiant_APT1_Report.pdf.txt,THREAT_ACTOR,61398
+Mandiant_APT1_Report.pdf.txt,THREAT_ACTOR,Comment Crew
+Mandiant_APT1_Report.pdf.txt,THREAT_ACTOR,Comment Group
+Mandiant_APT1_Report.pdf.txt,THREAT_ACTOR,Shady Rat
+Mandiant_APT1_Report.pdf.txt,THREAT_ACTOR,nitro
+Mandiant_APT1_Report.pdf.txt,THREAT_ACTOR,elderwood
+Mandiant_APT1_Report.pdf.txt,THREAT_ACTOR,sykipot
+Mandiant_APT1_Report.pdf.txt,THREAT_ACTOR,aurora
+Mandiant_APT1_Report.pdf.txt,THREAT_ACTOR,night Dragon
+Mandiant_APT1_Report.pdf.txt,THREAT_ACTOR,APT 1
+Mandiant_APT1_Report.pdf.txt,TOOL,HUC Packet Transmit Tool
+Mandiant_APT1_Report.pdf.txt,TOOL,HTRAN
+Mandiant_APT1_Report.pdf.txt,TOOL,cachedump
+Mandiant_APT1_Report.pdf.txt,TOOL,fgdump
+Mandiant_APT1_Report.pdf.txt,TOOL,gsecdump
+Mandiant_APT1_Report.pdf.txt,TOOL,lslsass
+Mandiant_APT1_Report.pdf.txt,TOOL,mimikatz
+Mandiant_APT1_Report.pdf.txt,TOOL,pwdump7
+Mandiant_APT1_Report.pdf.txt,TOOL,pwdumpx
+Mandiant_APT1_Report.pdf.txt,TOOL,psexec
+Mandiant_APT1_Report.pdf.txt,TOOL,FTP
+Mandiant_APT1_Report.pdf.txt,TOOL,web
+Mandiant_APT1_Report.pdf.txt,TOOL,RDP
+Mandiant_APT1_Report.pdf.txt,TOOL,pwdump
+Mandiant_APT1_Report.pdf.txt,INDUSTRY,finances
+Mandiant_APT1_Report.pdf.txt,INDUSTRY,facility management
+Mandiant_APT1_Report.pdf.txt,INDUSTRY,logistics
+Mandiant_APT1_Report.pdf.txt,INDUSTRY,shipping
+Mandiant_APT1_Report.pdf.txt,INDUSTRY,telecommunications
+Mandiant_APT1_Report.pdf.txt,INDUSTRY,political
+Mandiant_APT1_Report.pdf.txt,INDUSTRY,economic
+Mandiant_APT1_Report.pdf.txt,INDUSTRY,Information and Communications Engineering
+Mandiant_APT1_Report.pdf.txt,INDUSTRY,Aerospace
+Mandiant_APT1_Report.pdf.txt,INDUSTRY,Chemicals
+Mandiant_APT1_Report.pdf.txt,INDUSTRY,Construction and Manufacturing
+Mandiant_APT1_Report.pdf.txt,INDUSTRY,Education
+Mandiant_APT1_Report.pdf.txt,INDUSTRY,Energy
+Mandiant_APT1_Report.pdf.txt,INDUSTRY,Engineering Services
+Mandiant_APT1_Report.pdf.txt,INDUSTRY,Financial Services
+Mandiant_APT1_Report.pdf.txt,INDUSTRY,Food and Agriculture
+Mandiant_APT1_Report.pdf.txt,INDUSTRY,Healthcare
+Mandiant_APT1_Report.pdf.txt,INDUSTRY,Information Technology
+Mandiant_APT1_Report.pdf.txt,INDUSTRY,Legal Services
+Mandiant_APT1_Report.pdf.txt,INDUSTRY,"Media, Advertising and Entertainment"
+Mandiant_APT1_Report.pdf.txt,INDUSTRY,Metals and Mining
+Mandiant_APT1_Report.pdf.txt,INDUSTRY,Navigation
+Mandiant_APT1_Report.pdf.txt,INDUSTRY,Public Administration
+Mandiant_APT1_Report.pdf.txt,INDUSTRY,Satellites and Telecommunications
+Mandiant_APT1_Report.pdf.txt,INDUSTRY,Scientific Research and Consulting
+Mandiant_APT1_Report.pdf.txt,INDUSTRY,Transportation
+Mandiant_APT1_Report.pdf.txt,INDUSTRY,International Organizations
+Mandiant_APT1_Report.pdf.txt,ORG,Mandiant
+Mandiant_APT1_Report.pdf.txt,ORG,Chinese military
+Mandiant_APT1_Report.pdf.txt,ORG,Chinese Defense Ministry
+Mandiant_APT1_Report.pdf.txt,ORG,Washington Post
+Mandiant_APT1_Report.pdf.txt,ORG,Chinese government
+Mandiant_APT1_Report.pdf.txt,ORG,Chinese Government
+Mandiant_APT1_Report.pdf.txt,ORG,PLA
+Mandiant_APT1_Report.pdf.txt,ORG,General Staff Department
+Mandiant_APT1_Report.pdf.txt,ORG,GSD
+Mandiant_APT1_Report.pdf.txt,ORG,Military unit Cover Designator
+Mandiant_APT1_Report.pdf.txt,ORG,MUCD
+Mandiant_APT1_Report.pdf.txt,ORG,China Telecom
+Mandiant_APT1_Report.pdf.txt,ORG,Microsoft
+Mandiant_APT1_Report.pdf.txt,ORG,the Communist Party
+Mandiant_APT1_Report.pdf.txt,ORG,CPC
+Mandiant_APT1_Report.pdf.txt,ORG,Central Military Commission
+Mandiant_APT1_Report.pdf.txt,ORG,Joint Chiefs of Staff
+Mandiant_APT1_Report.pdf.txt,ORG,RAND Corporation
+Mandiant_APT1_Report.pdf.txt,ORG,Northrop Grumman Corp
+Mandiant_APT1_Report.pdf.txt,ORG,Communist Party
+Mandiant_APT1_Report.pdf.txt,ORG,General Political Department
+Mandiant_APT1_Report.pdf.txt,ORG,General Logistics Department
+Mandiant_APT1_Report.pdf.txt,ORG,General Armaments Department
+Mandiant_APT1_Report.pdf.txt,ORG,SIGINT
+Mandiant_APT1_Report.pdf.txt,ORG,CNO
+Mandiant_APT1_Report.pdf.txt,ORG,PLA Airforce
+Mandiant_APT1_Report.pdf.txt,ORG,PLAA
+Mandiant_APT1_Report.pdf.txt,ORG,PLA Navy
+Mandiant_APT1_Report.pdf.txt,ORG,PLAN
+Mandiant_APT1_Report.pdf.txt,ORG,PLa11
+Mandiant_APT1_Report.pdf.txt,ORG,National Security Agency
+Mandiant_APT1_Report.pdf.txt,ORG,the Defense Language Institute
+Mandiant_APT1_Report.pdf.txt,ORG,the Defense Information Systems Agency
+Mandiant_APT1_Report.pdf.txt,ORG,Project 2049 Institute
+Mandiant_APT1_Report.pdf.txt,ORG,Military Unit Cover Designator
+Mandiant_APT1_Report.pdf.txt,ORG,The Project 2049 Institute
+Mandiant_APT1_Report.pdf.txt,ORG,Google
+Mandiant_APT1_Report.pdf.txt,ORG,Department of Defense
+Mandiant_APT1_Report.pdf.txt,ORG,CNA
+Mandiant_APT1_Report.pdf.txt,ORG,CND
+Mandiant_APT1_Report.pdf.txt,ORG,CNE
+Mandiant_APT1_Report.pdf.txt,ORG,Military Unit Cover Designators
+Mandiant_APT1_Report.pdf.txt,ORG,Chinese Army
+Mandiant_APT1_Report.pdf.txt,ORG,Hebei Chamber of Commerce
+Mandiant_APT1_Report.pdf.txt,ORG,Chinese academic journal
+Mandiant_APT1_Report.pdf.txt,ORG,Journal of Sichuan University
+Mandiant_APT1_Report.pdf.txt,ORG,Journal of Information Engineering University
+Mandiant_APT1_Report.pdf.txt,ORG,Journal of Military Communications Technology
+Mandiant_APT1_Report.pdf.txt,ORG,Harbin Institute of Technology
+Mandiant_APT1_Report.pdf.txt,ORG,Zhejiang University School of Computer Science and Technology
+Mandiant_APT1_Report.pdf.txt,ORG,Jiangsu Longhai Construction Engineering Group
+Mandiant_APT1_Report.pdf.txt,ORG,Zhejiang University
+Mandiant_APT1_Report.pdf.txt,ORG,Jiangsu Langhai Construction Engineering Group
+Mandiant_APT1_Report.pdf.txt,ORG,China telecom
+Mandiant_APT1_Report.pdf.txt,ORG,Shanghai Intercommunication Network Control Center
+Mandiant_APT1_Report.pdf.txt,ORG,Nanhui Communication Park
+Mandiant_APT1_Report.pdf.txt,ORG,Shanghai Telecom
+Mandiant_APT1_Report.pdf.txt,ORG,Symantec
+Mandiant_APT1_Report.pdf.txt,ORG,Telvent Canada Ltd
+Mandiant_APT1_Report.pdf.txt,ORG,Schneider Electric
+Mandiant_APT1_Report.pdf.txt,ORG,SCADA
+Mandiant_APT1_Report.pdf.txt,ORG,Digital Bond
+Mandiant_APT1_Report.pdf.txt,ORG,Bloomberg
+Mandiant_APT1_Report.pdf.txt,ORG,Alien Vault
+Mandiant_APT1_Report.pdf.txt,ORG,Adobe
+Mandiant_APT1_Report.pdf.txt,ORG,Apple
+Mandiant_APT1_Report.pdf.txt,ORG,Samsung
+Mandiant_APT1_Report.pdf.txt,ORG,China Unicom
+Mandiant_APT1_Report.pdf.txt,ORG,Hong Kong University of Science and Technology
+Mandiant_APT1_Report.pdf.txt,ORG,CNN
+Mandiant_APT1_Report.pdf.txt,ORG,Yahoo
+Mandiant_APT1_Report.pdf.txt,ORG,Reuters
+Mandiant_APT1_Report.pdf.txt,ORG,AOL
+Mandiant_APT1_Report.pdf.txt,ORG,McAfee
+Mandiant_APT1_Report.pdf.txt,ORG,Blackberry
+Mandiant_APT1_Report.pdf.txt,ORG,Bluecoat
+Mandiant_APT1_Report.pdf.txt,ORG,YAHOO!
+Mandiant_APT1_Report.pdf.txt,ORG,Facebook
+Mandiant_APT1_Report.pdf.txt,ORG,Twitter
+Mandiant_APT1_Report.pdf.txt,ORG,Project 2049
+Mandiant_APT1_Report.pdf.txt,COUNTRY,China
+Mandiant_APT1_Report.pdf.txt,COUNTRY,United States
+Mandiant_APT1_Report.pdf.txt,COUNTRY,Europe
+Mandiant_APT1_Report.pdf.txt,COUNTRY,Asia
+Mandiant_APT1_Report.pdf.txt,COUNTRY,Canada
+Mandiant_APT1_Report.pdf.txt,COUNTRY,United Kingdom
+Mandiant_APT1_Report.pdf.txt,COUNTRY,Norway
+Mandiant_APT1_Report.pdf.txt,COUNTRY,France
+Mandiant_APT1_Report.pdf.txt,COUNTRY,South Africa
+Mandiant_APT1_Report.pdf.txt,COUNTRY,Japan
+Mandiant_APT1_Report.pdf.txt,COUNTRY,Singapore
+Mandiant_APT1_Report.pdf.txt,COUNTRY,Taiwan
+Mandiant_APT1_Report.pdf.txt,COUNTRY,India
+Mandiant_APT1_Report.pdf.txt,COUNTRY,UAE
+Mandiant_APT1_Report.pdf.txt,COUNTRY,Israel
+Mandiant_APT1_Report.pdf.txt,COUNTRY,Switzerland
+Mandiant_APT1_Report.pdf.txt,COUNTRY,Luxemborg
+Mandiant_APT1_Report.pdf.txt,COUNTRY,Belgium
+Mandiant_APT1_Report.pdf.txt,COUNTRY,cn
+Mandiant_APT1_Report.pdf.txt,COUNTRY,Korea
+Mandiant_APT1_Report.pdf.txt,COUNTRY,US
+Mandiant_APT1_Report.pdf.txt,COUNTRY,Hong Kong
+Mandiant_APT1_Report.pdf.txt,COUNTRY,South Korea
+Mandiant_APT1_Report.pdf.txt,COUNTRY,Australia
+Mandiant_APT1_Report.pdf.txt,COUNTRY,Mexico
+Mandiant_APT1_Report.pdf.txt,COUNTRY,Denmark
+Mandiant_APT1_Report.pdf.txt,COUNTRY,Indonesia
+Mandiant_APT1_Report.pdf.txt,COUNTRY,CN
+Mandiant_APT1_Report.pdf.txt,COUNTRY,Guatemala
+Mandiant_APT1_Report.pdf.txt,COUNTRY,USA
+Mandiant_APT1_Report.pdf.txt,COUNTRY,Malaysia
+Mandiant_APT1_Report.pdf.txt,COUNTRY,Philippines
+Mandiant_APT1_Report.pdf.txt,CITY,Beijing
+Mandiant_APT1_Report.pdf.txt,CITY,Shanghai
+Mandiant_APT1_Report.pdf.txt,CITY,Gaoqiaozhen
+Mandiant_APT1_Report.pdf.txt,CITY,Santa Monica
+Mandiant_APT1_Report.pdf.txt,CITY,New York
+Mandiant_APT1_Report.pdf.txt,CITY,Gaoqiao Town
+Mandiant_APT1_Report.pdf.txt,CITY,Gaoqiao
+Mandiant_APT1_Report.pdf.txt,CITY,Calgary
+Mandiant_APT1_Report.pdf.txt,CITY,Guizhou
+Mandiant_APT1_Report.pdf.txt,CITY,Pasadena
+Mandiant_APT1_Report.pdf.txt,CITY,Houston
+Mandiant_APT1_Report.pdf.txt,CITY,Sydney
+Mandiant_APT1_Report.pdf.txt,CITY,Salt Lake
+Mandiant_APT1_Report.pdf.txt,CITY,Washington
+Mandiant_APT1_Report.pdf.txt,CITY,Homewood
+Mandiant_APT1_Report.pdf.txt,CITY,Kalkaska
+Mandiant_APT1_Report.pdf.txt,CITY,Shallotte
+Mandiant_APT1_Report.pdf.txt,CITY,Yellow Spring
+Mandiant_APT1_Report.pdf.txt,CITY,Provo
+Mandiant_APT1_Report.pdf.txt,CITY,Shenzhen
+Mandiant_APT1_Report.pdf.txt,CITY,Birmingham
+Mandiant_APT1_Report.pdf.txt,CITY,Scottsdale
+Mandiant_APT1_Report.pdf.txt,CITY,Sunnyvale
+Mandiant_APT1_Report.pdf.txt,CITY,Albany
+Mandiant_APT1_Report.pdf.txt,CITY,Pearl River
+Mandiant_APT1_Report.pdf.txt,CITY,Chicago
+Mandiant_APT1_Report.pdf.txt,CITY,Moscow
+Mandiant_APT1_Report.pdf.txt,CITY,Nanning
+Mandiant_APT1_Report.pdf.txt,CITY,Wuhua
+Mandiant_APT1_Report.pdf.txt,CITY,Yellow Springs
+Mandiant_APT1_Report.pdf.txt,TIMESTAMP,"October, 2011"
+Mandiant_APT1_Report.pdf.txt,TIMESTAMP,"January, 2013"
+Mandiant_APT1_Report.pdf.txt,TIMESTAMP,"October 4, 2011"
+Mandiant_APT1_Report.pdf.txt,TIMESTAMP,"February 6, 2013"
+Mandiant_APT1_Report.pdf.txt,TIMESTAMP,Since 2004
+Mandiant_APT1_Report.pdf.txt,TIMESTAMP,January 2010
+Mandiant_APT1_Report.pdf.txt,TIMESTAMP,since at least 2006
+Mandiant_APT1_Report.pdf.txt,TIMESTAMP,in early 2007
+Mandiant_APT1_Report.pdf.txt,TIMESTAMP,Since 2006
+Mandiant_APT1_Report.pdf.txt,TIMESTAMP,In the first month of 2011
+Mandiant_APT1_Report.pdf.txt,TIMESTAMP,January 2011 to January 2013
+Mandiant_APT1_Report.pdf.txt,TIMESTAMP,October 2004
+Mandiant_APT1_Report.pdf.txt,TIMESTAMP,January 2004
+Mandiant_APT1_Report.pdf.txt,TIMESTAMP,2002
+Mandiant_APT1_Report.pdf.txt,TIMESTAMP,2012
+Mandiant_APT1_Report.pdf.txt,TIMESTAMP,2011
+Mandiant_APT1_Report.pdf.txt,TIMESTAMP,2010
+Mandiant_APT1_Report.pdf.txt,TIMESTAMP,2006
+Mandiant_APT1_Report.pdf.txt,TIMESTAMP,2005
+Mandiant_APT1_Report.pdf.txt,TIMESTAMP,"February 7, 2013"
+Mandiant_APT1_Report.pdf.txt,TIMESTAMP,"February 5, 2013"
+Mandiant_APT1_Report.pdf.txt,TIMESTAMP,2013
+Mandiant_APT1_Report.pdf.txt,TIMESTAMP,2008
+Mandiant_APT1_Report.pdf.txt,TIMESTAMP,as early as 2006
+Mandiant_APT1_Report.pdf.txt,TIMESTAMP,2007
+Mandiant_APT1_Report.pdf.txt,TIMESTAMP,2009
+Mandiant_APT1_Report.pdf.txt,TIMESTAMP,"4 Years, 10 Months"
+Mandiant_APT1_Report.pdf.txt,TIMESTAMP,356 days
+Mandiant_APT1_Report.pdf.txt,TIMESTAMP,during this time period
+Mandiant_APT1_Report.pdf.txt,TIMESTAMP,"February 3, 2013"
+Mandiant_APT1_Report.pdf.txt,TIMESTAMP,During this same time period
+Mandiant_APT1_Report.pdf.txt,TIMESTAMP,September 2012
+Mandiant_APT1_Report.pdf.txt,TIMESTAMP,IN June 2012
+Mandiant_APT1_Report.pdf.txt,TIMESTAMP,In November 2012
+Mandiant_APT1_Report.pdf.txt,TIMESTAMP,"Wed, 18 Apr 2012 06:31:41"
+Mandiant_APT1_Report.pdf.txt,TIMESTAMP,July 2006
+Mandiant_APT1_Report.pdf.txt,TIMESTAMP,since early 2004
+Mandiant_APT1_Report.pdf.txt,TIMESTAMP,July 2008
+Mandiant_APT1_Report.pdf.txt,TIMESTAMP,since 2004
+Mandiant_APT1_Report.pdf.txt,TIMESTAMP,2004
+Mandiant_APT1_Report.pdf.txt,TIMESTAMP,from 2004 until present
+Mandiant_APT1_Report.pdf.txt,TIMESTAMP,in September 2011
+Mandiant_APT1_Report.pdf.txt,TIMESTAMP,"October 31, 2011"
+Mandiant_APT1_Report.pdf.txt,TIMESTAMP,December 2012
+Mandiant_APT1_Report.pdf.txt,TIMESTAMP,back to 2004
+Mandiant_APT1_Report.pdf.txt,TIMESTAMP,16 Jan 2004
+Mandiant_APT1_Report.pdf.txt,TIMESTAMP,"October 25, 2004"
+Mandiant_APT1_Report.pdf.txt,TIMESTAMP,"September 10, 2012"
+Mandiant_APT1_Report.pdf.txt,TIMESTAMP,in February of 2011
+Mandiant_APT1_Report.pdf.txt,TIMESTAMP,"February 2, 2006"
+Mandiant_APT1_Report.pdf.txt,TIMESTAMP,1982
+TA410.pdf.txt,SOFTWARE,Windows
+TA410.pdf.txt,SOFTWARE,Windows Vista
+TA410.pdf.txt,SOFTWARE,VirusTotal
+TA410.pdf.txt,SOFTWARE,Microsoft Windows
+TA410.pdf.txt,MALWARE,Quasar RAT
+TA410.pdf.txt,THREAT_ACTOR,TA410
+TA410.pdf.txt,THREAT_ACTOR,TA429
+TA410.pdf.txt,THREAT_ACTOR,APT10
+TA410.pdf.txt,TOOL,SharpSploit
+TA410.pdf.txt,INDUSTRY,Utilities Sector
+TA410.pdf.txt,INDUSTRY,utilities sector
+TA410.pdf.txt,CAMPAIGN,LookBack
+TA410.pdf.txt,CAMPAIGN,FlowCloud
+TA410.pdf.txt,ORG,TA410
+TA410.pdf.txt,ORG,EnSilo
+TA410.pdf.txt,ORG,FireEye
+TA410.pdf.txt,ORG,APNIC
+TA410.pdf.txt,COUNTRY,United States
+TA410.pdf.txt,COUNTRY,Japan
+TA410.pdf.txt,COUNTRY,Taiwan
+TA410.pdf.txt,COUNTRY,US
+TA410.pdf.txt,TIMESTAMP,"June 5, 2020"
+TA410.pdf.txt,TIMESTAMP,"June 08, 2020"
+TA410.pdf.txt,TIMESTAMP,August 2019
+TA410.pdf.txt,TIMESTAMP,July and August 2019
+TA410.pdf.txt,TIMESTAMP,November 2019
+TA410.pdf.txt,TIMESTAMP,"July 10, 2019"
+TA410.pdf.txt,TIMESTAMP,September 2019
+TA410.pdf.txt,TIMESTAMP,June 2019
+TA410.pdf.txt,TIMESTAMP,"October 29, 2019"
+TA410.pdf.txt,TIMESTAMP,July 2019
+TA410.pdf.txt,TIMESTAMP,"July
+and August 2019"
+TA410.pdf.txt,TIMESTAMP,"July
+2016"
+TA410.pdf.txt,TIMESTAMP,July 2016
+TA410.pdf.txt,TIMESTAMP,December 2018
+TA410.pdf.txt,TIMESTAMP,"July
+2019"
+TA410.pdf.txt,TIMESTAMP,"September 14, 2018"
+TA410.pdf.txt,TIMESTAMP,"September 13, 2018"
+TA410.pdf.txt,TIMESTAMP,September 2018
+TA410.pdf.txt,TIMESTAMP,"May 24, 2019"
+TA410.pdf.txt,TIMESTAMP,"November
+2019"
+TA410.pdf.txt,TIMESTAMP,"June 7, 2019"
+TA410.pdf.txt,TIMESTAMP,"September 9, 2019"
+TA410.pdf.txt,TIMESTAMP,as early as 2016
+Twas the night before.pdf.txt,SOFTWARE,VirusTotal
+Twas the night before.pdf.txt,SOFTWARE,Office
+Twas the night before.pdf.txt,SOFTWARE,JavaScript
+Twas the night before.pdf.txt,SOFTWARE,Flash
+Twas the night before.pdf.txt,SOFTWARE,Chrome
+Twas the night before.pdf.txt,SOFTWARE,Microsoft Office
+Twas the night before.pdf.txt,SOFTWARE,Citrix Client
+Twas the night before.pdf.txt,SOFTWARE,Kaspersky Security Network
+Twas the night before.pdf.txt,SOFTWARE,KSN
+Twas the night before.pdf.txt,SOFTWARE,Outlook
+Twas the night before.pdf.txt,SOFTWARE,Flashplayer
+Twas the night before.pdf.txt,SOFTWARE,Citrix
+Twas the night before.pdf.txt,SOFTWARE,Word
+Twas the night before.pdf.txt,SOFTWARE,Flash player
+Twas the night before.pdf.txt,SOFTWARE,Chrome Installer
+Twas the night before.pdf.txt,SOFTWARE,Windows
+Twas the night before.pdf.txt,SOFTWARE,Linux
+Twas the night before.pdf.txt,SOFTWARE,OSX
+Twas the night before.pdf.txt,SOFTWARE,Android
+Twas the night before.pdf.txt,SOFTWARE,Python
+Twas the night before.pdf.txt,SOFTWARE,WordPress
+Twas the night before.pdf.txt,SOFTWARE,Joomla
+Twas the night before.pdf.txt,SOFTWARE,Drupal
+Twas the night before.pdf.txt,MALWARE,PowerSploit
+Twas the night before.pdf.txt,MALWARE,Pupy
+Twas the night before.pdf.txt,MALWARE,Mimikatz
+Twas the night before.pdf.txt,MALWARE,laZagne
+Twas the night before.pdf.txt,THREAT_ACTOR,APT
+Twas the night before.pdf.txt,THREAT_ACTOR,NewsBeef
+Twas the night before.pdf.txt,THREAT_ACTOR,NewsBeef APT
+Twas the night before.pdf.txt,INDUSTRY,"Telecom engineering and
+implementation services"
+Twas the night before.pdf.txt,INDUSTRY,Shipping and logistics
+Twas the night before.pdf.txt,INDUSTRY,Metal engineering and manufacturing
+Twas the night before.pdf.txt,INDUSTRY,Information technology services
+Twas the night before.pdf.txt,INDUSTRY,Cement and building materials
+Twas the night before.pdf.txt,ORG,USCYBERCOM
+Twas the night before.pdf.txt,ORG,SA government
+Twas the night before.pdf.txt,ORG,Saudi Arabian government
+Twas the night before.pdf.txt,ORG,"Choopa, LLC, US"
+Twas the night before.pdf.txt,ORG,National Technology Group
+Twas the night before.pdf.txt,ORG,NTG
+Twas the night before.pdf.txt,ORG,Saudi government
+Twas the night before.pdf.txt,ORG,Choopa
+Twas the night before.pdf.txt,COUNTRY,United States
+Twas the night before.pdf.txt,COUNTRY,SA
+Twas the night before.pdf.txt,COUNTRY,United Kingdom
+Twas the night before.pdf.txt,TIMESTAMP,the night before
+Twas the night before.pdf.txt,TIMESTAMP,January 2017
+Twas the night before.pdf.txt,TIMESTAMP,Dec 2016
+Twas the night before.pdf.txt,TIMESTAMP,Jan 2017
+Twas the night before.pdf.txt,TIMESTAMP,2015
+Twas the night before.pdf.txt,TIMESTAMP,2016
+Twas the night before.pdf.txt,TIMESTAMP,2017
+Twas the night before.pdf.txt,TIMESTAMP,summer of 2016
+Twas the night before.pdf.txt,TIMESTAMP,"December 25, 2016"
+Twas the night before.pdf.txt,TIMESTAMP,December 2016
+Twas the night before.pdf.txt,TIMESTAMP,"December 8, 2016"
+Twas the night before.pdf.txt,TIMESTAMP,October 2016
+WINNTI GROUP_ Insights From the Past.pdf.txt,SOFTWARE,Windows 10
+WINNTI GROUP_ Insights From the Past.pdf.txt,SOFTWARE,VirtualBox
+WINNTI GROUP_ Insights From the Past.pdf.txt,MALWARE,Cobalt Strike
+WINNTI GROUP_ Insights From the Past.pdf.txt,MALWARE,Meterpreter
+WINNTI GROUP_ Insights From the Past.pdf.txt,THREAT_ACTOR,WINNTI
+WINNTI GROUP_ Insights From the Past.pdf.txt,THREAT_ACTOR,APT41
+WINNTI GROUP_ Insights From the Past.pdf.txt,THREAT_ACTOR,BARIUM
+WINNTI GROUP_ Insights From the Past.pdf.txt,THREAT_ACTOR,Blackfly
+WINNTI GROUP_ Insights From the Past.pdf.txt,THREAT_ACTOR,APT17
+WINNTI GROUP_ Insights From the Past.pdf.txt,THREAT_ACTOR,Ke3chang
+WINNTI GROUP_ Insights From the Past.pdf.txt,THREAT_ACTOR,APT32
+WINNTI GROUP_ Insights From the Past.pdf.txt,THREAT_ACTOR,Wekby
+WINNTI GROUP_ Insights From the Past.pdf.txt,INDUSTRY,chemical
+WINNTI GROUP_ Insights From the Past.pdf.txt,INDUSTRY,pharmaceutical
+WINNTI GROUP_ Insights From the Past.pdf.txt,INDUSTRY,technology
+WINNTI GROUP_ Insights From the Past.pdf.txt,INDUSTRY,software
+WINNTI GROUP_ Insights From the Past.pdf.txt,INDUSTRY,enhancement
+WINNTI GROUP_ Insights From the Past.pdf.txt,INDUSTRY,development
+WINNTI GROUP_ Insights From the Past.pdf.txt,INDUSTRY,financials
+WINNTI GROUP_ Insights From the Past.pdf.txt,INDUSTRY,government
+WINNTI GROUP_ Insights From the Past.pdf.txt,INDUSTRY,information technology
+WINNTI GROUP_ Insights From the Past.pdf.txt,MITRE_ATTACK,T1215
+WINNTI GROUP_ Insights From the Past.pdf.txt,MITRE_ATTACK,T1068
+WINNTI GROUP_ Insights From the Past.pdf.txt,MITRE_ATTACK,T1009
+WINNTI GROUP_ Insights From the Past.pdf.txt,MITRE_ATTACK,T1014
+WINNTI GROUP_ Insights From the Past.pdf.txt,MITRE_ATTACK,T1116
+WINNTI GROUP_ Insights From the Past.pdf.txt,MITRE_ATTACK,T1022
+WINNTI GROUP_ Insights From the Past.pdf.txt,MITRE_ATTACK,T1048
+WINNTI GROUP_ Insights From the Past.pdf.txt,ORG,QuoIntelligence
+WINNTI GROUP_ Insights From the Past.pdf.txt,ORG,QuoINT
+WINNTI GROUP_ Insights From the Past.pdf.txt,ORG,Tagesschau
+WINNTI GROUP_ Insights From the Past.pdf.txt,ORG,Henkel
+WINNTI GROUP_ Insights From the Past.pdf.txt,ORG,BASF
+WINNTI GROUP_ Insights From the Past.pdf.txt,ORG,Bayer
+WINNTI GROUP_ Insights From the Past.pdf.txt,ORG,Roche
+WINNTI GROUP_ Insights From the Past.pdf.txt,ORG,ESET
+WINNTI GROUP_ Insights From the Past.pdf.txt,ORG,FireEye
+WINNTI GROUP_ Insights From the Past.pdf.txt,ORG,Cisco
+WINNTI GROUP_ Insights From the Past.pdf.txt,ORG,Citrix
+WINNTI GROUP_ Insights From the Past.pdf.txt,ORG,Zoho
+WINNTI GROUP_ Insights From the Past.pdf.txt,ORG,ExaTrack
+WINNTI GROUP_ Insights From the Past.pdf.txt,COUNTRY,Europe
+WINNTI GROUP_ Insights From the Past.pdf.txt,COUNTRY,South Asia
+WINNTI GROUP_ Insights From the Past.pdf.txt,COUNTRY,South Korea
+WINNTI GROUP_ Insights From the Past.pdf.txt,COUNTRY,Taiwan
+WINNTI GROUP_ Insights From the Past.pdf.txt,TIMESTAMP,January 2020
+WINNTI GROUP_ Insights From the Past.pdf.txt,TIMESTAMP,the second half of 2019
+WINNTI GROUP_ Insights From the Past.pdf.txt,TIMESTAMP,December 2019
+wp-operation-pawn-storm.pdf.txt,SOFTWARE,JavaScript
+wp-operation-pawn-storm.pdf.txt,SOFTWARE,OWA
+wp-operation-pawn-storm.pdf.txt,SOFTWARE,Excel
+wp-operation-pawn-storm.pdf.txt,SOFTWARE,Firefox
+wp-operation-pawn-storm.pdf.txt,SOFTWARE,Safari
+wp-operation-pawn-storm.pdf.txt,SOFTWARE,Chrome
+wp-operation-pawn-storm.pdf.txt,SOFTWARE,"Internet 
+Explorer"
+wp-operation-pawn-storm.pdf.txt,SOFTWARE,Gmail
+wp-operation-pawn-storm.pdf.txt,SOFTWARE,Live Mail
+wp-operation-pawn-storm.pdf.txt,SOFTWARE,InterScan
+wp-operation-pawn-storm.pdf.txt,SOFTWARE,"Microsoft 
+Exchange"
+wp-operation-pawn-storm.pdf.txt,SOFTWARE,OfficeScan
+wp-operation-pawn-storm.pdf.txt,SOFTWARE,"Smart Protection 
+Network"
+wp-operation-pawn-storm.pdf.txt,MALWARE,TROJ_ARTIEF
+wp-operation-pawn-storm.pdf.txt,THREAT_ACTOR,SEDNIT
+wp-operation-pawn-storm.pdf.txt,THREAT_ACTOR,Sofacy
+wp-operation-pawn-storm.pdf.txt,INDUSTRY,military
+wp-operation-pawn-storm.pdf.txt,INDUSTRY,embassy
+wp-operation-pawn-storm.pdf.txt,CAMPAIGN,Pawn Storm
+wp-operation-pawn-storm.pdf.txt,CAMPAIGN,"PAWN
+STORM"
+wp-operation-pawn-storm.pdf.txt,ORG,Trend Micro
+wp-operation-pawn-storm.pdf.txt,ORG,Ministry of Defense
+wp-operation-pawn-storm.pdf.txt,ORG,Russian government
+wp-operation-pawn-storm.pdf.txt,ORG,Vatican Embassy
+wp-operation-pawn-storm.pdf.txt,ORG,Polish government
+wp-operation-pawn-storm.pdf.txt,ORG,"Ministry of 
+Defense"
+wp-operation-pawn-storm.pdf.txt,ORG,Yahoo
+wp-operation-pawn-storm.pdf.txt,ORG,Yandex
+wp-operation-pawn-storm.pdf.txt,ORG,"Trend 
+Micro"
+wp-operation-pawn-storm.pdf.txt,ORG,MITRE
+wp-operation-pawn-storm.pdf.txt,COUNTRY,Hungary
+wp-operation-pawn-storm.pdf.txt,COUNTRY,Austria
+wp-operation-pawn-storm.pdf.txt,COUNTRY,United States
+wp-operation-pawn-storm.pdf.txt,COUNTRY,France
+wp-operation-pawn-storm.pdf.txt,COUNTRY,Iraq
+wp-operation-pawn-storm.pdf.txt,COUNTRY,Indonesia
+wp-operation-pawn-storm.pdf.txt,COUNTRY,Germany
+wp-operation-pawn-storm.pdf.txt,COUNTRY,Yahoo
+wp-operation-pawn-storm.pdf.txt,CITY,Irving
+wp-operation-pawn-storm.pdf.txt,TIMESTAMP,"October 
+17, 2011"
+wp-operation-pawn-storm.pdf.txt,TIMESTAMP,"January 
+9, 2012"
+wp-operation-pawn-storm.pdf.txt,TIMESTAMP,"September 20, 
+2013"
+wp-operation-pawn-storm.pdf.txt,TIMESTAMP,"January 23, 2014"
+wp-operation-pawn-storm.pdf.txt,TIMESTAMP,"August 11, 2014"
+wp-operation-pawn-storm.pdf.txt,TIMESTAMP,2007
+wp-operation-pawn-storm.pdf.txt,TIMESTAMP,"October 17, 2014"
+wp-operation-pawn-storm.pdf.txt,TIMESTAMP,"October 13, 2014"
+wp-operation-pawn-storm.pdf.txt,TIMESTAMP,"October 16, 2014"
+wp-operation-pawn-storm.pdf.txt,TIMESTAMP,"October 21, 2014"
+wp-operation-pawn-storm.pdf.txt,TIMESTAMP,"October 16, 
+2014"
+wp-operation-pawn-storm.pdf.txt,TIMESTAMP,October 21
+wp-operation-pawn-storm.pdf.txt,TIMESTAMP,"October 22, 2014"
+wp-operation-pawn-storm.pdf.txt,TIMESTAMP,"October 22, 
+2014"
+wp-operation-pawn-storm.pdf.txt,TIMESTAMP,"October 
+21, 2014"
