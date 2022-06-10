@@ -107,6 +107,13 @@ def create_entities_df(source_df: pd.DataFrame,
 def create_spacy_dataset(texts_list: List[str],
                          output_filename: str = "train",
                          ):
+    """
+    Создать датасет в необходимом для модели ner в spacy формате
+
+    :param texts_list: список исходных текстом датасета
+    :param output_filename: имя для сохраняемого файла(без расширения)
+    :return:
+    """
     raw_dataset = []
     logging.info(f"Start prepare raw indexed dataset")
     for raw_text in texts_list:
@@ -147,4 +154,5 @@ def create_spacy_dataset(texts_list: List[str],
     spacy_dataset_filename = os.path.join(DATASET_DIR, f"{output_filename}.spacy")
     db.to_disk(spacy_dataset_filename)
     logging.info(f"Result dataset successful saved to {spacy_dataset_filename}")
+
     return raw_dataset
