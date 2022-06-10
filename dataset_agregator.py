@@ -5,8 +5,10 @@ from collections import OrderedDict
 from typing import List
 
 import pandas as pd
+import spacy
+from spacy.tokens import DocBin
 
-from settings import ENTITY_TAGS
+from settings import ENTITY_TAGS, DATASET_DIR
 
 
 def create_df_from_files(source_dir: str,
@@ -18,7 +20,7 @@ def create_df_from_files(source_dir: str,
 
     :param source_dir: путь до директории датасета
     :param save_to_scv: флаг, для сохранения результата в csv файл
-    :param output_filename: имя для сохраняемого файла результата, если выбран флаг save_to_scv
+    :param output_filename: имя для сохраняемого файла(без расширения) результата, если выбран флаг save_to_scv
     :return: pandas.Dataframe с колонками ["filename", "text"]
     """
     try:
@@ -36,10 +38,11 @@ def create_df_from_files(source_dir: str,
                                   },
                                  )
         if save_to_scv:
-            marked_df.to_csv(f"{output_filename}.csv",
+            dataset_filepath = os.path.join(DATASET_DIR, f"{output_filename}.csv")
+            marked_df.to_csv(dataset_filepath,
                              index=False,
                              )
-            logging.info(f"Result DataFrame successful saved to {output_filename}.csv")
+            logging.info(f"Result DataFrame successful saved to {dataset_filepath}")
 
         return marked_df
 
@@ -71,7 +74,7 @@ def create_entities_df(source_df: pd.DataFrame,
 
     :param source_df: исходный pandas.Dataframe(columns=["filename", "text"])
     :param save_to_scv: флаг, для сохранения результата в csv файл
-    :param output_filename: имя для сохраняемого файла результата, если выбран флаг save_to_scv
+    :param output_filename: имя для сохраняемого файла(без расширения) результата, если выбран флаг save_to_scv
     :return: pandas.Dataframe с колонками ["filename", "tag", "entity"]
     """
     try:
@@ -89,12 +92,59 @@ def create_entities_df(source_df: pd.DataFrame,
                     entity_df = pd.concat([entity_df, res_df], ignore_index=True)
 
         if save_to_scv:
-            entity_df.to_csv(f"{output_filename}.csv",
+            dataset_filepath = os.path.join(DATASET_DIR, f"{output_filename}.csv")
+            entity_df.to_csv(dataset_filepath,
                              index=False,
                              )
-            logging.info(f"Result DataFrame successful saved to {output_filename}.csv")
+            logging.info(f"Result DataFrame successful saved to {dataset_filepath}")
 
         return entity_df
 
     except Exception as ex:
         logging.error(ex, exc_info=True)
+
+
+def create_spacy_dataset(texts_list: List[str],
+                         output_filename: str = "train",
+                         ):
+    raw_dataset = []
+    logging.info(f"Start prepare raw indexed dataset")
+    for raw_text in texts_list:
+        entities_list = []
+        for tag in ENTITY_TAGS:
+            buffer_text = raw_text
+            # Ищем в тексте тэг, извлекаем индексы начала и конца слова по тэгу и срезаем строку
+            first_idx = buffer_text.find(f"<{tag}>")
+            while first_idx != -1:
+                start_idx = first_idx + len(f"<{tag}>")
+                end_idx = buffer_text.find(f"</{tag}>")
+
+                if start_idx > end_idx:
+                    first_idx = -1
+                else:
+                    entities_list.append((start_idx, end_idx, tag))
+                    buffer_text = buffer_text[167 + len(f"</{tag}>"):]
+                    first_idx = buffer_text.find(f"<{tag}>")
+        if entities_list:
+            raw_dataset.append((raw_text, entities_list))
+
+    # Используем DocBin чтобы сохранить датасет в формате для spacy
+    logging.info(f"Start prepare spacy dataset")
+    nlp = spacy.blank("en")
+
+    db = DocBin()
+    for text, annotations in raw_dataset:
+        doc = nlp(text)
+        ents = []
+        for start, end, label in annotations:
+            span = doc.char_span(start, end, label=label)
+            ents.append(span)
+
+        if doc.ents:
+            doc.ents = ents
+            db.add(doc)
+
+    spacy_dataset_filename = os.path.join(DATASET_DIR, f"{output_filename}.spacy")
+    db.to_disk(spacy_dataset_filename)
+    logging.info(f"Result dataset successful saved to {spacy_dataset_filename}")
+    return raw_dataset
