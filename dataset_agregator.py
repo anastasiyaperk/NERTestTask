@@ -154,5 +154,3 @@ def create_spacy_dataset(texts_list: List[str],
     spacy_dataset_filename = os.path.join(DATASET_DIR, f"{output_filename}.spacy")
     db.to_disk(spacy_dataset_filename)
     logging.info(f"Result dataset successful saved to {spacy_dataset_filename}")
-
-    return raw_dataset
