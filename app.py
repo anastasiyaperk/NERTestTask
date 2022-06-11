@@ -1,12 +1,8 @@
-import logging
-
 import spacy
 from flask import Flask, jsonify, request
 
-from settings import NER_PATH
+from settings import NER_PATH, APP_PORT, APP_HOST
 
-logging.basicConfig(format=u'[%(asctime)s] %(filename)s [%(levelname)s] %(message)s',
-                    level=logging.INFO, )
 nlp_loaded = spacy.load(NER_PATH)
 app = Flask(__name__)
 
@@ -21,4 +17,4 @@ def get_entities():
 
 
 if __name__ == '__main__':
-    app.run(host="localhost", port=5000)
+    app.run(host=APP_HOST, port=APP_PORT)

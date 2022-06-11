@@ -25,5 +25,5 @@ ENTITY_TAGS = ["CVE",
                ]
 
 # Настройки flask приложения
-APP_HOST = "localhost"
+APP_HOST = "0.0.0.0"
 APP_PORT = 5000
