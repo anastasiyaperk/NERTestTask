@@ -1,7 +1,5 @@
 import logging
 import os
-import re
-from collections import OrderedDict
 from typing import List
 
 import pandas as pd
@@ -30,6 +28,8 @@ def create_df_from_files(source_dir: str,
         for file_path in filepath_list:
             with open(os.path.join(source_dir, file_path), 'r', encoding='utf-8') as file:
                 file_data = file.read().strip('\n')
+                file_data = file_data.replace('\n', ' ')
+                file_data = file_data.replace('\t', ' ')
 
             file_texts.append(file_data)
 
@@ -59,9 +59,24 @@ def get_entities_by_tag(tag, source_text) -> List[str]:
     :param source_text: исходная строка
     :return: список извлеченных сущностей(без повторений)
     """
-    all_entities = re.findall(f'<{tag}>([\w\s\d?!:;,]+)</{tag}>', source_text)
-    stripped_res = list(OrderedDict.fromkeys(all_entities))
-    return stripped_res
+    # all_entities = re.findall(f'<{tag}>([\w\s\d?!:;,]+)</{tag}>', source_text)
+    # stripped_res = list(OrderedDict.fromkeys(all_entities))
+    entities_list = []
+    buffer_text = source_text
+    first_idx = buffer_text.find(f"<{tag}>")
+
+    while first_idx != -1:
+        start_idx = first_idx + len(f"<{tag}>")
+        end_idx = buffer_text.find(f"</{tag}>")
+
+        if start_idx > end_idx:
+            first_idx = -1
+        else:
+            entities_list.append(buffer_text[start_idx:end_idx])
+            buffer_text = buffer_text[end_idx + len(f"</{tag}>"):]
+            first_idx = buffer_text.find(f"<{tag}>")
+
+    return entities_list
 
 
 def create_entities_df(source_df: pd.DataFrame,
@@ -89,7 +104,7 @@ def create_entities_df(source_df: pd.DataFrame,
                                            "entity": entity_list
                                            }
                                           )
-                    entity_df = pd.concat([entity_df, res_df], ignore_index=True)
+                    entity_df = entity_df.append(res_df, ignore_index=True)
 
         if save_to_scv:
             dataset_filepath = os.path.join(DATASET_DIR, f"{output_filename}.csv")
@@ -106,10 +121,12 @@ def create_entities_df(source_df: pd.DataFrame,
 
 def create_spacy_dataset(texts_list: List[str],
                          output_filename: str = "train",
+                         nlp=spacy.blank("en")
                          ):
     """
     Создать датасет в необходимом для модели ner в spacy формате
 
+    :param nlp: модель nlp spacy
     :param texts_list: список исходных текстом датасета
     :param output_filename: имя для сохраняемого файла(без расширения)
     :return:
@@ -130,15 +147,13 @@ def create_spacy_dataset(texts_list: List[str],
                     first_idx = -1
                 else:
                     entities_list.append((start_idx, end_idx, tag))
-                    buffer_text = buffer_text[167 + len(f"</{tag}>"):]
+                    buffer_text = buffer_text[end_idx + len(f"</{tag}>"):]
                     first_idx = buffer_text.find(f"<{tag}>")
         if entities_list:
             raw_dataset.append((raw_text, entities_list))
 
     # Используем DocBin чтобы сохранить датасет в формате для spacy
     logging.info(f"Start prepare spacy dataset")
-    nlp = spacy.blank("en")
-
     db = DocBin()
     for text, annotations in raw_dataset:
         doc = nlp(text)
