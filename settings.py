@@ -2,6 +2,7 @@ import os
 
 ROOT_DIR = os.path.dirname(os.path.abspath(__file__))
 DATASET_DIR = os.path.join(ROOT_DIR, "dataset")
+NER_PATH = os.path.join(ROOT_DIR, "ner_data")
 
 # Список тэгов сущностей
 ENTITY_TAGS = ["CVE",
@@ -22,3 +23,7 @@ ENTITY_TAGS = ["CVE",
                "GEOLOCATION",
                "TIMESTAMP",
                ]
+
+# Настройки flask приложения
+APP_HOST = "localhost"
+APP_PORT = 5000
