@@ -41,19 +41,19 @@
 
 **Пример подготовки данных для обучения и статистики :**  
 
-<a href="https://colab.research.google.com/github/anastasiyaperk/NERTestTask/tree/master/examples/prepare_dataset.ipynb"><img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"></a> 
+<a href="https://colab.research.google.com/github/anastasiyaperk/NERTestTask/blob/master/examples/prepare_dataset.ipynb"><img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"></a> 
 
 **Статистика по извлеченным сущностям в исходном наборе данных:**
 
-<a href="https://colab.research.google.com/github/anastasiyaperk/NERTestTask/tree/master/examples/entities_statistic.ipynb"><img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"></a> 
+<a href="https://colab.research.google.com/github/anastasiyaperk/NERTestTask/blob/master/examples/entities_statistic.ipynb"><img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"></a> 
 
 **Процесс обучения и тестирования модели:**
 
-<a href="https://colab.research.google.com/github/anastasiyaperk/NERTestTask/tree/master/examples/train_process.ipynb"><img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"></a> 
+<a href="https://colab.research.google.com/github/anastasiyaperk/NERTestTask/blob/master/examples/train_process.ipynb"><img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"></a> 
 
 **Пример модели, обученной на верно размеченных данных:**
 
-<a href="https://colab.research.google.com/github/anastasiyaperk/NERTestTask/tree/master/examples/train_example.ipynb"><img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"></a> 
+<a href="https://colab.research.google.com/github/anastasiyaperk/NERTestTask/blob/master/examples/train_example.ipynb"><img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"></a> 
 
 
 ## Развертывание Flask-приложения
