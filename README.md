@@ -80,4 +80,4 @@
 **Пример:**
 
 Тело POST-запроса: `{"text":"Microsoft"}`  
-Ответ: `{"Microsoft": "MALWARE"}`  
+Ответ: `{"Microsoft": "SOFTWARE"}`  
